@@ -1,0 +1,2652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Bogdan Vladu</string>
+	<key>CreatedWith</key>
+	<string>SpriteHelper</string>
+	<key>SHEETS_INFO</key>
+	<array>
+		<dict>
+			<key>2HDSuffix</key>
+			<string>-ipadhd</string>
+			<key>AllowRotation</key>
+			<true/>
+			<key>Crop</key>
+			<false/>
+			<key>DropSprites</key>
+			<false/>
+			<key>HDSuffix</key>
+			<string>-hd</string>
+			<key>IsRendable</key>
+			<true/>
+			<key>MaxSheetSize</key>
+			<integer>4096</integer>
+			<key>NpotSize</key>
+			<string>{1144, 1016}</string>
+			<key>Padding</key>
+			<integer>8</integer>
+			<key>PixelFormat</key>
+			<integer>0</integer>
+			<key>SheetImage</key>
+			<string>flappy_bord.png</string>
+			<key>SheetImage-HD</key>
+			<string>flappy_bord-hd.png</string>
+			<key>SheetName</key>
+			<string>bord</string>
+			<key>SheetSceneImageName</key>
+			<string></string>
+			<key>Sheet_Sprites_Info</key>
+			<dict>
+				<key>bg</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va0gEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3AwAAAAEBAABDRCAABAAA
+					AAEBAABtb29yBwAAAAEBAABsZXR0ZXJzAAYA
+					AAABAQAAYmcucG5nAAAgAAAAAQYAAAQAAAAU
+					AAAAKAAAADwAAABIAAAAVAAAAGAAAABwAAAA
+					CAAAAAQDAACnAwIAAAAAAAgAAAAEAwAA/8EF
+					AAAAAAAIAAAABAMAAADCBQAAAAAACAAAAAQD
+					AAB03jUAAAAAAAgAAAAEAwAAZZKKAAAAAAAI
+					AAAABAMAAODOJgIAAAAACAAAAAQDAADwokcC
+					AAAAAAgAAAAEAwAAsVh4AgAAAAAgAAAAAQYA
+					AKgAAAC4AAAAyAAAANgAAADoAAAA+AAAAAgB
+					AAAYAQAACAAAAAAEAABBuLLh2AAAABgAAAAB
+					AgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAA
+					AAAAAAEFAAAEAAAAAwMAAAcAAAAEAAAAAwMA
+					AAYAAAAIAAAABAMAAAYAAAAAAAAABAAAAAMD
+					AAD1AQAADAAAAAEBAABNYWNpbnRvc2ggSEQI
+					AAAABAMAAAAArNRdAAAACAAAAAAEAABBtdpi
+					MAAAACQAAAABAQAAMTgwODNBNkEtMDdCMy0z
+					QzMwLTlERjYtODg3NjQ0M0I2NUI5GAAAAAEC
+					AACBAAAAAQAIAO8/AAABAAgAAAAAAAAAAAAB
+					AAAAAQEAAC8AAAAEAAAAAwMAAAABAADBAAAA
+					AQIAAGFkZWM5MzUyN2MzN2MyMzg0MzE4NWVh
+					YTEwZjhkMjI3ZDk2YTBmYjY7MDAwMDAwMDA7
+					MDAwMDAwMDAwMDAwMDAyMDtjb20uYXBwbGUu
+					YXBwLXNhbmRib3gucmVhZC13cml0ZTswMDAw
+					MDAwMTswMTAwMDAwNDswMDAwMDAwMDAyNzg1
+					OGIxOy91c2Vycy9wcmF0b2Z1bmd1cy9kb2N1
+					bWVudHMvZHJhdy9jZCAvbW9vci9sZXR0ZXJz
+					L2JnLnBuZwAAAADwAAAA/v///wEAAAAAAAAA
+					EwAAAAQQAACAAAAAAAAAAAUQAAAoAQAAAAAA
+					ABAQAABgAQAAAAAAAEAQAABQAQAAAAAAAFQQ
+					AACIAQAAAAAAAFUQAACUAQAAAAAAAFYQAACA
+					AQAAAAAAAAIgAAA8AgAAAAAAABAgAAC8AQAA
+					AAAAABEgAADwAQAAAAAAABIgAADQAQAAAAAA
+					ABMgAADgAQAAAAAAACAgAAAcAgAAAAAAADAg
+					AACAAQAAAAAAAAHAAACgAQAAAAAAABHAAAAU
+					AAAAAAAAABLAAACwAQAAAAAAABDQAABIAgAA
+					AAAAAIDwAABUAgAAAAAAAA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>bord</string>
+					<key>SHSpriteName</key>
+					<string>bg</string>
+					<key>SheetImage</key>
+					<string>flappy_bord.png</string>
+					<key>SheetImage-HD</key>
+					<string>flappy_bord-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{4, 4}, {568, 320}}</string>
+						<key>Frame-HD</key>
+						<string>{{8, 8}, {1136, 640}}</string>
+						<key>Image</key>
+						<string>flappy_bord.png</string>
+						<key>Image-HD</key>
+						<string>flappy_bord-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>bg</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/draw/CD /moor/letters/bg.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../../../../Documents/draw/CD%20/moor/letters/bg.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {1136, 640}}</string>
+						<key>OriginalSize</key>
+						<string>{1136, 640}</string>
+						<key>Position</key>
+						<string>{8, 8}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{568, 320}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>bord1</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va0wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAJAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3AwAAAAEBAABDRCAABAAA
+					AAEBAABtb29yBwAAAAEBAABsZXR0ZXJzAAkA
+					AAABAQAAYm9yZDEucG5nAAAAIAAAAAEGAAAE
+					AAAAFAAAACgAAAA8AAAASAAAAFQAAABgAAAA
+					cAAAAAgAAAAEAwAApwMCAAAAAAAIAAAABAMA
+					AP/BBQAAAAAACAAAAAQDAAAAwgUAAAAAAAgA
+					AAAEAwAAdN41AAAAAAAIAAAABAMAAGWSigAA
+					AAAACAAAAAQDAADgziYCAAAAAAgAAAAEAwAA
+					8KJHAgAAAAAIAAAABAMAANBYeAIAAAAAIAAA
+					AAEGAACsAAAAvAAAAMwAAADcAAAA7AAAAPwA
+					AAAMAQAAHAEAAAgAAAAABAAAQbiy4gkAAAAY
+					AAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAA
+					AAAAAAAAAAABBQAABAAAAAMDAAAHAAAABAAA
+					AAMDAAAGAAAACAAAAAQDAAAGAAAAAAAAAAQA
+					AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3No
+					IEhECAAAAAQDAAAAAKzUXQAAAAgAAAAABAAA
+					QbXaYjAAAAAkAAAAAQEAADE4MDgzQTZBLTA3
+					QjMtM0MzMC05REY2LTg4NzY0NDNCNjVCORgA
+					AAABAgAAgQAAAAEACADvPwAAAQAIAAAAAAAA
+					AAAAAQAAAAEBAAAvAAAABAAAAAMDAAAAAQAA
+					xAAAAAECAAA1YzNkMTU1OGU1OTI2Nzc2YjM2
+					MTQ3YTA5N2UwOWNjYmFkMmZkYjJhOzAwMDAw
+					MDAwOzAwMDAwMDAwMDAwMDAwMjA7Y29tLmFw
+					cGxlLmFwcC1zYW5kYm94LnJlYWQtd3JpdGU7
+					MDAwMDAwMDE7MDEwMDAwMDQ7MDAwMDAwMDAw
+					Mjc4NThkMDsvdXNlcnMvcHJhdG9mdW5ndXMv
+					ZG9jdW1lbnRzL2RyYXcvY2QgL21vb3IvbGV0
+					dGVycy9ib3JkMS5wbmcA8AAAAP7///8BAAAA
+					AAAAABMAAAAEEAAAhAAAAAAAAAAFEAAALAEA
+					AAAAAAAQEAAAZAEAAAAAAABAEAAAVAEAAAAA
+					AABUEAAAjAEAAAAAAABVEAAAmAEAAAAAAABW
+					EAAAhAEAAAAAAAACIAAAQAIAAAAAAAAQIAAA
+					wAEAAAAAAAARIAAA9AEAAAAAAAASIAAA1AEA
+					AAAAAAATIAAA5AEAAAAAAAAgIAAAIAIAAAAA
+					AAAwIAAAhAEAAAAAAAABwAAApAEAAAAAAAAR
+					wAAAFAAAAAAAAAASwAAAtAEAAAAAAAAQ0AAA
+					TAIAAAAAAACA8AAAWAIAAAAAAAA=
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>bord</string>
+					<key>SHSpriteName</key>
+					<string>bord1</string>
+					<key>SheetImage</key>
+					<string>flappy_bord.png</string>
+					<key>SheetImage-HD</key>
+					<string>flappy_bord-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{240, 328}, {114, 114}}</string>
+						<key>Frame-HD</key>
+						<string>{{480, 656}, {228, 228}}</string>
+						<key>Image</key>
+						<string>flappy_bord.png</string>
+						<key>Image-HD</key>
+						<string>flappy_bord-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>bord1</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/draw/CD /moor/letters/bord1.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../../../../Documents/draw/CD%20/moor/letters/bord1.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {228, 228}}</string>
+						<key>OriginalSize</key>
+						<string>{228, 228}</string>
+						<key>Position</key>
+						<string>{480, 656}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{114, 114}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>bord2</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va0wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAJAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3AwAAAAEBAABDRCAABAAA
+					AAEBAABtb29yBwAAAAEBAABsZXR0ZXJzAAkA
+					AAABAQAAYm9yZDIucG5nAAAAIAAAAAEGAAAE
+					AAAAFAAAACgAAAA8AAAASAAAAFQAAABgAAAA
+					cAAAAAgAAAAEAwAApwMCAAAAAAAIAAAABAMA
+					AP/BBQAAAAAACAAAAAQDAAAAwgUAAAAAAAgA
+					AAAEAwAAdN41AAAAAAAIAAAABAMAAGWSigAA
+					AAAACAAAAAQDAADgziYCAAAAAAgAAAAEAwAA
+					8KJHAgAAAAAIAAAABAMAANNYeAIAAAAAIAAA
+					AAEGAACsAAAAvAAAAMwAAADcAAAA7AAAAPwA
+					AAAMAQAAHAEAAAgAAAAABAAAQbiy4hEAAAAY
+					AAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAA
+					AAAAAAAAAAABBQAABAAAAAMDAAAHAAAABAAA
+					AAMDAAAGAAAACAAAAAQDAAAGAAAAAAAAAAQA
+					AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3No
+					IEhECAAAAAQDAAAAAKzUXQAAAAgAAAAABAAA
+					QbXaYjAAAAAkAAAAAQEAADE4MDgzQTZBLTA3
+					QjMtM0MzMC05REY2LTg4NzY0NDNCNjVCORgA
+					AAABAgAAgQAAAAEACADvPwAAAQAIAAAAAAAA
+					AAAAAQAAAAEBAAAvAAAABAAAAAMDAAAAAQAA
+					xAAAAAECAAA5NzhmMzgzYjE3MTZlNDBkMDEx
+					ZDA0ZGE4MmMxOWNiYTU5YzA5MTIwOzAwMDAw
+					MDAwOzAwMDAwMDAwMDAwMDAwMjA7Y29tLmFw
+					cGxlLmFwcC1zYW5kYm94LnJlYWQtd3JpdGU7
+					MDAwMDAwMDE7MDEwMDAwMDQ7MDAwMDAwMDAw
+					Mjc4NThkMzsvdXNlcnMvcHJhdG9mdW5ndXMv
+					ZG9jdW1lbnRzL2RyYXcvY2QgL21vb3IvbGV0
+					dGVycy9ib3JkMi5wbmcA8AAAAP7///8BAAAA
+					AAAAABMAAAAEEAAAhAAAAAAAAAAFEAAALAEA
+					AAAAAAAQEAAAZAEAAAAAAABAEAAAVAEAAAAA
+					AABUEAAAjAEAAAAAAABVEAAAmAEAAAAAAABW
+					EAAAhAEAAAAAAAACIAAAQAIAAAAAAAAQIAAA
+					wAEAAAAAAAARIAAA9AEAAAAAAAASIAAA1AEA
+					AAAAAAATIAAA5AEAAAAAAAAgIAAAIAIAAAAA
+					AAAwIAAAhAEAAAAAAAABwAAApAEAAAAAAAAR
+					wAAAFAAAAAAAAAASwAAAtAEAAAAAAAAQ0AAA
+					TAIAAAAAAACA8AAAWAIAAAAAAAA=
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>bord</string>
+					<key>SHSpriteName</key>
+					<string>bord2</string>
+					<key>SheetImage</key>
+					<string>flappy_bord.png</string>
+					<key>SheetImage-HD</key>
+					<string>flappy_bord-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{4, 328}, {114, 114}}</string>
+						<key>Frame-HD</key>
+						<string>{{8, 656}, {228, 228}}</string>
+						<key>Image</key>
+						<string>flappy_bord.png</string>
+						<key>Image-HD</key>
+						<string>flappy_bord-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>bord2</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/draw/CD /moor/letters/bord2.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../../../../Documents/draw/CD%20/moor/letters/bord2.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {228, 228}}</string>
+						<key>OriginalSize</key>
+						<string>{228, 228}</string>
+						<key>Position</key>
+						<string>{8, 656}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{114, 114}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>bord3</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va0wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAJAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3AwAAAAEBAABDRCAABAAA
+					AAEBAABtb29yBwAAAAEBAABsZXR0ZXJzAAkA
+					AAABAQAAYm9yZDMucG5nAAAAIAAAAAEGAAAE
+					AAAAFAAAACgAAAA8AAAASAAAAFQAAABgAAAA
+					cAAAAAgAAAAEAwAApwMCAAAAAAAIAAAABAMA
+					AP/BBQAAAAAACAAAAAQDAAAAwgUAAAAAAAgA
+					AAAEAwAAdN41AAAAAAAIAAAABAMAAGWSigAA
+					AAAACAAAAAQDAADgziYCAAAAAAgAAAAEAwAA
+					8KJHAgAAAAAIAAAABAMAANVYeAIAAAAAIAAA
+					AAEGAACsAAAAvAAAAMwAAADcAAAA7AAAAPwA
+					AAAMAQAAHAEAAAgAAAAABAAAQbiy4hgAAAAY
+					AAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAA
+					AAAAAAAAAAABBQAABAAAAAMDAAAHAAAABAAA
+					AAMDAAAGAAAACAAAAAQDAAAGAAAAAAAAAAQA
+					AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3No
+					IEhECAAAAAQDAAAAAKzUXQAAAAgAAAAABAAA
+					QbXaYjAAAAAkAAAAAQEAADE4MDgzQTZBLTA3
+					QjMtM0MzMC05REY2LTg4NzY0NDNCNjVCORgA
+					AAABAgAAgQAAAAEACADvPwAAAQAIAAAAAAAA
+					AAAAAQAAAAEBAAAvAAAABAAAAAMDAAAAAQAA
+					xAAAAAECAABhMjNlMjY4YjVjYTNmOWYwZjIw
+					MWM3NTUzYjMwMzI2ZjYzZjg1OTE4OzAwMDAw
+					MDAwOzAwMDAwMDAwMDAwMDAwMjA7Y29tLmFw
+					cGxlLmFwcC1zYW5kYm94LnJlYWQtd3JpdGU7
+					MDAwMDAwMDE7MDEwMDAwMDQ7MDAwMDAwMDAw
+					Mjc4NThkNTsvdXNlcnMvcHJhdG9mdW5ndXMv
+					ZG9jdW1lbnRzL2RyYXcvY2QgL21vb3IvbGV0
+					dGVycy9ib3JkMy5wbmcA8AAAAP7///8BAAAA
+					AAAAABMAAAAEEAAAhAAAAAAAAAAFEAAALAEA
+					AAAAAAAQEAAAZAEAAAAAAABAEAAAVAEAAAAA
+					AABUEAAAjAEAAAAAAABVEAAAmAEAAAAAAABW
+					EAAAhAEAAAAAAAACIAAAQAIAAAAAAAAQIAAA
+					wAEAAAAAAAARIAAA9AEAAAAAAAASIAAA1AEA
+					AAAAAAATIAAA5AEAAAAAAAAgIAAAIAIAAAAA
+					AAAwIAAAhAEAAAAAAAABwAAApAEAAAAAAAAR
+					wAAAFAAAAAAAAAASwAAAtAEAAAAAAAAQ0AAA
+					TAIAAAAAAACA8AAAWAIAAAAAAAA=
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>bord</string>
+					<key>SHSpriteName</key>
+					<string>bord3</string>
+					<key>SheetImage</key>
+					<string>flappy_bord.png</string>
+					<key>SheetImage-HD</key>
+					<string>flappy_bord-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{124, 328}, {114, 114}}</string>
+						<key>Frame-HD</key>
+						<string>{{248, 656}, {228, 228}}</string>
+						<key>Image</key>
+						<string>flappy_bord.png</string>
+						<key>Image-HD</key>
+						<string>flappy_bord-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>bord3</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/draw/CD /moor/letters/bord3.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../../../../Documents/draw/CD%20/moor/letters/bord3.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {228, 228}}</string>
+						<key>OriginalSize</key>
+						<string>{228, 228}</string>
+						<key>Position</key>
+						<string>{248, 656}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{114, 114}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>obstacle1</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va1QEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAALAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3AwAAAAEBAABDRCAABAAA
+					AAEBAABtb29yBwAAAAEBAABsZXR0ZXJzAA0A
+					AAABAQAAb2JzdGFjbGUxLnBuZwAAACAAAAAB
+					BgAABAAAABQAAAAoAAAAPAAAAEgAAABUAAAA
+					YAAAAHAAAAAIAAAABAMAAKcDAgAAAAAACAAA
+					AAQDAAD/wQUAAAAAAAgAAAAEAwAAAMIFAAAA
+					AAAIAAAABAMAAHTeNQAAAAAACAAAAAQDAABl
+					kooAAAAAAAgAAAAEAwAA4M4mAgAAAAAIAAAA
+					BAMAAPCiRwIAAAAACAAAAAQDAABhWXgCAAAA
+					ACAAAAABBgAAsAAAAMAAAADQAAAA4AAAAPAA
+					AAAAAQAAEAEAACABAAAIAAAAAAQAAEG4suI6
+					AAAAGAAAAAECAAABAAAAAAAAAA8AAAAAAAAA
+					AAAAAAAAAAAAAAAAAQUAAAQAAAADAwAABwAA
+					AAQAAAADAwAABgAAAAgAAAAEAwAABgAAAAAA
+					AAAEAAAAAwMAAPUBAAAMAAAAAQEAAE1hY2lu
+					dG9zaCBIRAgAAAAEAwAAAACs1F0AAAAIAAAA
+					AAQAAEG12mIwAAAAJAAAAAEBAAAxODA4M0E2
+					QS0wN0IzLTNDMzAtOURGNi04ODc2NDQzQjY1
+					QjkYAAAAAQIAAIEAAAABAAgA7z8AAAEACAAA
+					AAAAAAAAAAEAAAABAQAALwAAAAQAAAADAwAA
+					AAEAAMgAAAABAgAAZmZkOTdmZjAzZjJjOGQy
+					ZGI4Mzc4ZGJkNjEyNGU0N2MwMmIwYTY4MTsw
+					MDAwMDAwMDswMDAwMDAwMDAwMDAwMDIwO2Nv
+					bS5hcHBsZS5hcHAtc2FuZGJveC5yZWFkLXdy
+					aXRlOzAwMDAwMDAxOzAxMDAwMDA0OzAwMDAw
+					MDAwMDI3ODU5NjE7L3VzZXJzL3ByYXRvZnVu
+					Z3VzL2RvY3VtZW50cy9kcmF3L2NkIC9tb29y
+					L2xldHRlcnMvb2JzdGFjbGUxLnBuZwDwAAAA
+					/v///wEAAAAAAAAAEwAAAAQQAACIAAAAAAAA
+					AAUQAAAwAQAAAAAAABAQAABoAQAAAAAAAEAQ
+					AABYAQAAAAAAAFQQAACQAQAAAAAAAFUQAACc
+					AQAAAAAAAFYQAACIAQAAAAAAAAIgAABEAgAA
+					AAAAABAgAADEAQAAAAAAABEgAAD4AQAAAAAA
+					ABIgAADYAQAAAAAAABMgAADoAQAAAAAAACAg
+					AAAkAgAAAAAAADAgAACIAQAAAAAAAAHAAACo
+					AQAAAAAAABHAAAAUAAAAAAAAABLAAAC4AQAA
+					AAAAABDQAABQAgAAAAAAAIDwAABcAgAAAAAA
+					AA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-40.5, 3}</string>
+										<string>{-78.5, 5.5}</string>
+										<string>{-67.5, 3.5}</string>
+									</array>
+									<array>
+										<string>{20, -7}</string>
+										<string>{71, -9.5}</string>
+										<string>{67.5, -8.5}</string>
+										<string>{53, -7.5}</string>
+									</array>
+									<array>
+										<string>{20, -7}</string>
+										<string>{53, -7.5}</string>
+										<string>{50, -6.5}</string>
+									</array>
+									<array>
+										<string>{-81.5, -4.5}</string>
+										<string>{-99, -9.5}</string>
+										<string>{-88.5, -10}</string>
+										<string>{-65.5, -8}</string>
+										<string>{-71, -2.5}</string>
+									</array>
+									<array>
+										<string>{-40.5, 3}</string>
+										<string>{-67.5, 3.5}</string>
+										<string>{-64.5, 1.5}</string>
+									</array>
+									<array>
+										<string>{-37, -7}</string>
+										<string>{20, -7}</string>
+										<string>{50, -6.5}</string>
+										<string>{49.5, -6}</string>
+										<string>{6, 3}</string>
+										<string>{-40.5, 3}</string>
+									</array>
+									<array>
+										<string>{-66, -0.5}</string>
+										<string>{-71, -2.5}</string>
+										<string>{-65.5, -8}</string>
+									</array>
+									<array>
+										<string>{89.5, 5.5}</string>
+										<string>{98.5, 9.5}</string>
+										<string>{98.5, 10.5}</string>
+										<string>{92, 10.5}</string>
+										<string>{91.5, 10}</string>
+									</array>
+									<array>
+										<string>{72, 0}</string>
+										<string>{89.5, 5.5}</string>
+										<string>{91.5, 10}</string>
+										<string>{79.5, 8.5}</string>
+										<string>{69, 6}</string>
+										<string>{56.5, -3}</string>
+									</array>
+									<array>
+										<string>{56.5, -3}</string>
+										<string>{69, 6}</string>
+										<string>{6, 3}</string>
+										<string>{50.5, -5}</string>
+									</array>
+									<array>
+										<string>{49.5, -6}</string>
+										<string>{50.5, -5}</string>
+										<string>{6, 3}</string>
+									</array>
+									<array>
+										<string>{-65.5, -8}</string>
+										<string>{-37, -7}</string>
+										<string>{-40.5, 3}</string>
+										<string>{-64.5, 1.5}</string>
+										<string>{-66, -0.5}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>0.0</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<false/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>0.0</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-99, -10.5}</string>
+								<key>LHWidth</key>
+								<real>0.0</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{381, 1}</string>
+									<string>{357, 4}</string>
+									<string>{336, 9}</string>
+									<string>{210, 15}</string>
+									<string>{117, 15}</string>
+									<string>{41, 10}</string>
+									<string>{63, 14}</string>
+									<string>{69, 18}</string>
+									<string>{66, 22}</string>
+									<string>{56, 26}</string>
+									<string>{35, 30}</string>
+									<string>{0, 40}</string>
+									<string>{21, 41}</string>
+									<string>{67, 37}</string>
+									<string>{124, 35}</string>
+									<string>{238, 35}</string>
+									<string>{340, 40}</string>
+									<string>{333, 38}</string>
+									<string>{304, 36}</string>
+									<string>{298, 34}</string>
+									<string>{297, 33}</string>
+									<string>{299, 31}</string>
+									<string>{311, 27}</string>
+									<string>{342, 21}</string>
+									<string>{377, 10}</string>
+									<string>{395, 2}</string>
+									<string>{395, 0}</string>
+									<string>{382, 0}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>bord</string>
+					<key>SHSpriteName</key>
+					<string>obstacle1</string>
+					<key>SheetImage</key>
+					<string>flappy_bord.png</string>
+					<key>SheetImage-HD</key>
+					<string>flappy_bord-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{112, 478}, {198, 21}}</string>
+						<key>Frame-HD</key>
+						<string>{{224, 956}, {396, 42}}</string>
+						<key>Image</key>
+						<string>flappy_bord.png</string>
+						<key>Image-HD</key>
+						<string>flappy_bord-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>obstacle1</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/draw/CD /moor/letters/obstacle1.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../../../../Documents/draw/CD%20/moor/letters/obstacle1.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {396, 42}}</string>
+						<key>OriginalSize</key>
+						<string>{396, 42}</string>
+						<key>Position</key>
+						<string>{224, 956}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{198, 21}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>obstacle2</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va1QEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAALAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3AwAAAAEBAABDRCAABAAA
+					AAEBAABtb29yBwAAAAEBAABsZXR0ZXJzAA0A
+					AAABAQAAb2JzdGFjbGUyLnBuZwAAACAAAAAB
+					BgAABAAAABQAAAAoAAAAPAAAAEgAAABUAAAA
+					YAAAAHAAAAAIAAAABAMAAKcDAgAAAAAACAAA
+					AAQDAAD/wQUAAAAAAAgAAAAEAwAAAMIFAAAA
+					AAAIAAAABAMAAHTeNQAAAAAACAAAAAQDAABl
+					kooAAAAAAAgAAAAEAwAA4M4mAgAAAAAIAAAA
+					BAMAAPCiRwIAAAAACAAAAAQDAAB7WXgCAAAA
+					ACAAAAABBgAAsAAAAMAAAADQAAAA4AAAAPAA
+					AAAAAQAAEAEAACABAAAIAAAAAAQAAEG4suJE
+					AAAAGAAAAAECAAABAAAAAAAAAA8AAAAAAAAA
+					AAAAAAAAAAAAAAAAAQUAAAQAAAADAwAABwAA
+					AAQAAAADAwAABgAAAAgAAAAEAwAABgAAAAAA
+					AAAEAAAAAwMAAPUBAAAMAAAAAQEAAE1hY2lu
+					dG9zaCBIRAgAAAAEAwAAAACs1F0AAAAIAAAA
+					AAQAAEG12mIwAAAAJAAAAAEBAAAxODA4M0E2
+					QS0wN0IzLTNDMzAtOURGNi04ODc2NDQzQjY1
+					QjkYAAAAAQIAAIEAAAABAAgA7z8AAAEACAAA
+					AAAAAAAAAAEAAAABAQAALwAAAAQAAAADAwAA
+					AAEAAMgAAAABAgAANjBhNTFjOGEwNjYwZjFi
+					Y2Q5YzBlNTk4YzI2NjZmOGFlNWExOTEzZDsw
+					MDAwMDAwMDswMDAwMDAwMDAwMDAwMDIwO2Nv
+					bS5hcHBsZS5hcHAtc2FuZGJveC5yZWFkLXdy
+					aXRlOzAwMDAwMDAxOzAxMDAwMDA0OzAwMDAw
+					MDAwMDI3ODU5N2I7L3VzZXJzL3ByYXRvZnVu
+					Z3VzL2RvY3VtZW50cy9kcmF3L2NkIC9tb29y
+					L2xldHRlcnMvb2JzdGFjbGUyLnBuZwDwAAAA
+					/v///wEAAAAAAAAAEwAAAAQQAACIAAAAAAAA
+					AAUQAAAwAQAAAAAAABAQAABoAQAAAAAAAEAQ
+					AABYAQAAAAAAAFQQAACQAQAAAAAAAFUQAACc
+					AQAAAAAAAFYQAACIAQAAAAAAAAIgAABEAgAA
+					AAAAABAgAADEAQAAAAAAABEgAAD4AQAAAAAA
+					ABIgAADYAQAAAAAAABMgAADoAQAAAAAAACAg
+					AAAkAgAAAAAAADAgAACIAQAAAAAAAAHAAACo
+					AQAAAAAAABHAAAAUAAAAAAAAABLAAAC4AQAA
+					AAAAABDQAABQAgAAAAAAAIDwAABcAgAAAAAA
+					AA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-40.75, -11.25}</string>
+										<string>{40.75, -11.25}</string>
+										<string>{40.75, 11.25}</string>
+										<string>{-40.75, 11.25}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>45</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<true/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>22.5</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-40.75, -11.25}</string>
+								<key>LHWidth</key>
+								<real>81.5</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{0, 0}</string>
+									<string>{163, 0}</string>
+									<string>{163, 45}</string>
+									<string>{0, 45}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>163</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>bord</string>
+					<key>SHSpriteName</key>
+					<string>obstacle2</string>
+					<key>SheetImage</key>
+					<string>flappy_bord.png</string>
+					<key>SheetImage-HD</key>
+					<string>flappy_bord-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{276, 446}, {81.5, 22.5}}</string>
+						<key>Frame-HD</key>
+						<string>{{552, 892}, {163, 45}}</string>
+						<key>Image</key>
+						<string>flappy_bord.png</string>
+						<key>Image-HD</key>
+						<string>flappy_bord-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>obstacle2</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/draw/CD /moor/letters/obstacle2.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../../../../Documents/draw/CD%20/moor/letters/obstacle2.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {163, 45}}</string>
+						<key>OriginalSize</key>
+						<string>{163, 45}</string>
+						<key>Position</key>
+						<string>{552, 892}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{81.5, 22.5}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>obstacle3</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va1QEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAALAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3AwAAAAEBAABDRCAABAAA
+					AAEBAABtb29yBwAAAAEBAABsZXR0ZXJzAA0A
+					AAABAQAAb2JzdGFjbGUzLnBuZwAAACAAAAAB
+					BgAABAAAABQAAAAoAAAAPAAAAEgAAABUAAAA
+					YAAAAHAAAAAIAAAABAMAAKcDAgAAAAAACAAA
+					AAQDAAD/wQUAAAAAAAgAAAAEAwAAAMIFAAAA
+					AAAIAAAABAMAAHTeNQAAAAAACAAAAAQDAABl
+					kooAAAAAAAgAAAAEAwAA4M4mAgAAAAAIAAAA
+					BAMAAPCiRwIAAAAACAAAAAQDAAB/WXgCAAAA
+					ACAAAAABBgAAsAAAAMAAAADQAAAA4AAAAPAA
+					AAAAAQAAEAEAACABAAAIAAAAAAQAAEG4suJP
+					AAAAGAAAAAECAAABAAAAAAAAAA8AAAAAAAAA
+					AAAAAAAAAAAAAAAAAQUAAAQAAAADAwAABwAA
+					AAQAAAADAwAABgAAAAgAAAAEAwAABgAAAAAA
+					AAAEAAAAAwMAAPUBAAAMAAAAAQEAAE1hY2lu
+					dG9zaCBIRAgAAAAEAwAAAACs1F0AAAAIAAAA
+					AAQAAEG12mIwAAAAJAAAAAEBAAAxODA4M0E2
+					QS0wN0IzLTNDMzAtOURGNi04ODc2NDQzQjY1
+					QjkYAAAAAQIAAIEAAAABAAgA7z8AAAEACAAA
+					AAAAAAAAAAEAAAABAQAALwAAAAQAAAADAwAA
+					AAEAAMgAAAABAgAAODA0MmM4NTIyN2FlOTdi
+					NDNkMmIzY2E2YTBlY2M0NjM4NjJkYWJiZjsw
+					MDAwMDAwMDswMDAwMDAwMDAwMDAwMDIwO2Nv
+					bS5hcHBsZS5hcHAtc2FuZGJveC5yZWFkLXdy
+					aXRlOzAwMDAwMDAxOzAxMDAwMDA0OzAwMDAw
+					MDAwMDI3ODU5N2Y7L3VzZXJzL3ByYXRvZnVu
+					Z3VzL2RvY3VtZW50cy9kcmF3L2NkIC9tb29y
+					L2xldHRlcnMvb2JzdGFjbGUzLnBuZwDwAAAA
+					/v///wEAAAAAAAAAEwAAAAQQAACIAAAAAAAA
+					AAUQAAAwAQAAAAAAABAQAABoAQAAAAAAAEAQ
+					AABYAQAAAAAAAFQQAACQAQAAAAAAAFUQAACc
+					AQAAAAAAAFYQAACIAQAAAAAAAAIgAABEAgAA
+					AAAAABAgAADEAQAAAAAAABEgAAD4AQAAAAAA
+					ABIgAADYAQAAAAAAABMgAADoAQAAAAAAACAg
+					AAAkAgAAAAAAADAgAACIAQAAAAAAAAHAAACo
+					AQAAAAAAABHAAAAUAAAAAAAAABLAAAC4AQAA
+					AAAAABDQAABQAgAAAAAAAIDwAABcAgAAAAAA
+					AA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-29.66438891294132, 4.5531185541927073}</string>
+										<string>{-80.739022694214952, -13.509464918590083}</string>
+										<string>{68.75, -12.75}</string>
+										<string>{77.25, 13.25}</string>
+									</array>
+									<array>
+										<string>{77.75, 13.75}</string>
+										<string>{77.25, 13.25}</string>
+										<string>{68.75, -12.75}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>0.0</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<false/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>0.0</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-79.25, -13.75}</string>
+								<key>LHWidth</key>
+								<real>0.0</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{313, 1}</string>
+									<string>{99.171222174117361, 18.393762891614585}</string>
+									<string>{-2.978045388429905, 54.518929837180167}</string>
+									<string>{296, 53}</string>
+									<string>{314, 0}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>bord</string>
+					<key>SHSpriteName</key>
+					<string>obstacle3</string>
+					<key>SheetImage</key>
+					<string>flappy_bord.png</string>
+					<key>SheetImage-HD</key>
+					<string>flappy_bord-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{112, 446}, {158.5, 27.5}}</string>
+						<key>Frame-HD</key>
+						<string>{{224, 892}, {317, 55}}</string>
+						<key>Image</key>
+						<string>flappy_bord.png</string>
+						<key>Image-HD</key>
+						<string>flappy_bord-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<false/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>obstacle3</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/draw/CD /moor/letters/obstacle3.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../../../../Documents/draw/CD%20/moor/letters/obstacle3.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {317, 55}}</string>
+						<key>OriginalSize</key>
+						<string>{317, 55}</string>
+						<key>Position</key>
+						<string>{224, 892}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{158.5, 27.5}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>obstacle4</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va1QEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAALAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3AwAAAAEBAABDRCAABAAA
+					AAEBAABtb29yBwAAAAEBAABsZXR0ZXJzAA0A
+					AAABAQAAb2JzdGFjbGU0LnBuZwAAACAAAAAB
+					BgAABAAAABQAAAAoAAAAPAAAAEgAAABUAAAA
+					YAAAAHAAAAAIAAAABAMAAKcDAgAAAAAACAAA
+					AAQDAAD/wQUAAAAAAAgAAAAEAwAAAMIFAAAA
+					AAAIAAAABAMAAHTeNQAAAAAACAAAAAQDAABl
+					kooAAAAAAAgAAAAEAwAA4M4mAgAAAAAIAAAA
+					BAMAAPCiRwIAAAAACAAAAAQDAACHWXgCAAAA
+					ACAAAAABBgAAsAAAAMAAAADQAAAA4AAAAPAA
+					AAAAAQAAEAEAACABAAAIAAAAAAQAAEG4suJf
+					AAAAGAAAAAECAAABAAAAAAAAAA8AAAAAAAAA
+					AAAAAAAAAAAAAAAAAQUAAAQAAAADAwAABwAA
+					AAQAAAADAwAABgAAAAgAAAAEAwAABgAAAAAA
+					AAAEAAAAAwMAAPUBAAAMAAAAAQEAAE1hY2lu
+					dG9zaCBIRAgAAAAEAwAAAACs1F0AAAAIAAAA
+					AAQAAEG12mIwAAAAJAAAAAEBAAAxODA4M0E2
+					QS0wN0IzLTNDMzAtOURGNi04ODc2NDQzQjY1
+					QjkYAAAAAQIAAIEAAAABAAgA7z8AAAEACAAA
+					AAAAAAAAAAEAAAABAQAALwAAAAQAAAADAwAA
+					AAEAAMgAAAABAgAAY2Q4MzEwOGEwNjQwY2Uz
+					ODE4NGJhOTYwNWI5NjYxYjk0YzMxNjdkMjsw
+					MDAwMDAwMDswMDAwMDAwMDAwMDAwMDIwO2Nv
+					bS5hcHBsZS5hcHAtc2FuZGJveC5yZWFkLXdy
+					aXRlOzAwMDAwMDAxOzAxMDAwMDA0OzAwMDAw
+					MDAwMDI3ODU5ODc7L3VzZXJzL3ByYXRvZnVu
+					Z3VzL2RvY3VtZW50cy9kcmF3L2NkIC9tb29y
+					L2xldHRlcnMvb2JzdGFjbGU0LnBuZwDwAAAA
+					/v///wEAAAAAAAAAEwAAAAQQAACIAAAAAAAA
+					AAUQAAAwAQAAAAAAABAQAABoAQAAAAAAAEAQ
+					AABYAQAAAAAAAFQQAACQAQAAAAAAAFUQAACc
+					AQAAAAAAAFYQAACIAQAAAAAAAAIgAABEAgAA
+					AAAAABAgAADEAQAAAAAAABEgAAD4AQAAAAAA
+					ABIgAADYAQAAAAAAABMgAADoAQAAAAAAACAg
+					AAAkAgAAAAAAADAgAACIAQAAAAAAAAHAAACo
+					AQAAAAAAABHAAAAUAAAAAAAAABLAAAC4AQAA
+					AAAAABDQAABQAgAAAAAAAIDwAABcAgAAAAAA
+					AA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-40.066688587803014, -9.6300316658751512}</string>
+										<string>{-41.142429647671804, -20.011982698317354}</string>
+										<string>{3.5434340573951886, -22.335138764463466}</string>
+										<string>{-8.3391201756677447, -8.4357244271918717}</string>
+									</array>
+									<array>
+										<string>{-8.3391201756677447, -8.4357244271918717}</string>
+										<string>{3.5434340573951886, -22.335138764463466}</string>
+										<string>{3.7496898059578712, 6.5913036731798798}</string>
+										<string>{-7.1448129369844651, 20.766137363322656}</string>
+									</array>
+									<array>
+										<string>{42.13919539023135, 19.764500165212837}</string>
+										<string>{-7.1448129369844651, 20.766137363322656}</string>
+										<string>{3.7496898059578712, 6.5913036731798798}</string>
+										<string>{42.604814654950644, 11.144985978273212}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>0.0</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<false/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>0.0</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-43.25, -21.5}</string>
+								<key>LHWidth</key>
+								<real>0.0</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{-62.260063331750302, 6.3666228243939713}</string>
+									<string>{-59.871448854383736, 69.821759648664511}</string>
+									<string>{-1.4677252733546808, 72.21037412603107}</string>
+									<string>{-3.4709996695743115, 170.7783907804627}</string>
+									<string>{-20.710028043453566, 171.70962930990129}</string>
+									<string>{-29.817392653640233, 93.999379611915742}</string>
+									<string>{-87.670277528926931, 93.586868114790377}</string>
+									<string>{-83.023965396634708, 4.2151407046563918}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>bord</string>
+					<key>SHSpriteName</key>
+					<string>obstacle4</string>
+					<key>SheetImage</key>
+					<string>flappy_bord.png</string>
+					<key>SheetImage-HD</key>
+					<string>flappy_bord-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{358, 328}, {86.5, 43}}</string>
+						<key>Frame-HD</key>
+						<string>{{716, 656}, {173, 86}}</string>
+						<key>Image</key>
+						<string>flappy_bord.png</string>
+						<key>Image-HD</key>
+						<string>flappy_bord-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<true/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>obstacle4</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/draw/CD /moor/letters/obstacle4.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../../../../Documents/draw/CD%20/moor/letters/obstacle4.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {173, 86}}</string>
+						<key>OriginalSize</key>
+						<string>{173, 86}</string>
+						<key>Position</key>
+						<string>{716, 656}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{86.5, 43}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>obstacle5</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va1QEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAALAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3AwAAAAEBAABDRCAABAAA
+					AAEBAABtb29yBwAAAAEBAABsZXR0ZXJzAA0A
+					AAABAQAAb2JzdGFjbGU1LnBuZwAAACAAAAAB
+					BgAABAAAABQAAAAoAAAAPAAAAEgAAABUAAAA
+					YAAAAHAAAAAIAAAABAMAAKcDAgAAAAAACAAA
+					AAQDAAD/wQUAAAAAAAgAAAAEAwAAAMIFAAAA
+					AAAIAAAABAMAAHTeNQAAAAAACAAAAAQDAABl
+					kooAAAAAAAgAAAAEAwAA4M4mAgAAAAAIAAAA
+					BAMAAPCiRwIAAAAACAAAAAQDAACNWXgCAAAA
+					ACAAAAABBgAAsAAAAMAAAADQAAAA4AAAAPAA
+					AAAAAQAAEAEAACABAAAIAAAAAAQAAEG4suJt
+					AAAAGAAAAAECAAABAAAAAAAAAA8AAAAAAAAA
+					AAAAAAAAAAAAAAAAAQUAAAQAAAADAwAABwAA
+					AAQAAAADAwAABgAAAAgAAAAEAwAABgAAAAAA
+					AAAEAAAAAwMAAPUBAAAMAAAAAQEAAE1hY2lu
+					dG9zaCBIRAgAAAAEAwAAAACs1F0AAAAIAAAA
+					AAQAAEG12mIwAAAAJAAAAAEBAAAxODA4M0E2
+					QS0wN0IzLTNDMzAtOURGNi04ODc2NDQzQjY1
+					QjkYAAAAAQIAAIEAAAABAAgA7z8AAAEACAAA
+					AAAAAAAAAAEAAAABAQAALwAAAAQAAAADAwAA
+					AAEAAMgAAAABAgAANjNmMTRmM2M1MzBlNjBj
+					MDI5OWVhNmU2MzY2N2JmZDE0OTNhZjAzZjsw
+					MDAwMDAwMDswMDAwMDAwMDAwMDAwMDIwO2Nv
+					bS5hcHBsZS5hcHAtc2FuZGJveC5yZWFkLXdy
+					aXRlOzAwMDAwMDAxOzAxMDAwMDA0OzAwMDAw
+					MDAwMDI3ODU5OGQ7L3VzZXJzL3ByYXRvZnVu
+					Z3VzL2RvY3VtZW50cy9kcmF3L2NkIC9tb29y
+					L2xldHRlcnMvb2JzdGFjbGU1LnBuZwDwAAAA
+					/v///wEAAAAAAAAAEwAAAAQQAACIAAAAAAAA
+					AAUQAAAwAQAAAAAAABAQAABoAQAAAAAAAEAQ
+					AABYAQAAAAAAAFQQAACQAQAAAAAAAFUQAACc
+					AQAAAAAAAFYQAACIAQAAAAAAAAIgAABEAgAA
+					AAAAABAgAADEAQAAAAAAABEgAAD4AQAAAAAA
+					ABIgAADYAQAAAAAAABMgAADoAQAAAAAAACAg
+					AAAkAgAAAAAAADAgAACIAQAAAAAAAAHAAACo
+					AQAAAAAAABHAAAAUAAAAAAAAABLAAAC4AQAA
+					AAAAABDQAABQAgAAAAAAAIDwAABcAgAAAAAA
+					AA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-9.5, -44.5}</string>
+										<string>{9.5, -44.5}</string>
+										<string>{9.5, 44.5}</string>
+										<string>{-9.5, 44.5}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>178</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<true/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>89</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-9.5, -44.5}</string>
+								<key>LHWidth</key>
+								<real>19</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{0, 0}</string>
+									<string>{0, 38}</string>
+									<string>{-178, 38.000000000000014}</string>
+									<string>{-178, 1.0658141036401503e-14}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>38</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>bord</string>
+					<key>SHSpriteName</key>
+					<string>obstacle5</string>
+					<key>SheetImage</key>
+					<string>flappy_bord.png</string>
+					<key>SheetImage-HD</key>
+					<string>flappy_bord-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{358, 420}, {19, 89}}</string>
+						<key>Frame-HD</key>
+						<string>{{716, 840}, {38, 178}}</string>
+						<key>Image</key>
+						<string>flappy_bord.png</string>
+						<key>Image-HD</key>
+						<string>flappy_bord-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<true/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>obstacle5</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/draw/CD /moor/letters/obstacle5.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../../../../Documents/draw/CD%20/moor/letters/obstacle5.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {38, 178}}</string>
+						<key>OriginalSize</key>
+						<string>{38, 178}</string>
+						<key>Position</key>
+						<string>{716, 840}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{19, 89}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>obstacle6</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va1QEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAALAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3AwAAAAEBAABDRCAABAAA
+					AAEBAABtb29yBwAAAAEBAABsZXR0ZXJzAA0A
+					AAABAQAAb2JzdGFjbGU2LnBuZwAAACAAAAAB
+					BgAABAAAABQAAAAoAAAAPAAAAEgAAABUAAAA
+					YAAAAHAAAAAIAAAABAMAAKcDAgAAAAAACAAA
+					AAQDAAD/wQUAAAAAAAgAAAAEAwAAAMIFAAAA
+					AAAIAAAABAMAAHTeNQAAAAAACAAAAAQDAABl
+					kooAAAAAAAgAAAAEAwAA4M4mAgAAAAAIAAAA
+					BAMAAPCiRwIAAAAACAAAAAQDAACWWXgCAAAA
+					ACAAAAABBgAAsAAAAMAAAADQAAAA4AAAAPAA
+					AAAAAQAAEAEAACABAAAIAAAAAAQAAEG4suJ5
+					AAAAGAAAAAECAAABAAAAAAAAAA8AAAAAAAAA
+					AAAAAAAAAAAAAAAAAQUAAAQAAAADAwAABwAA
+					AAQAAAADAwAABgAAAAgAAAAEAwAABgAAAAAA
+					AAAEAAAAAwMAAPUBAAAMAAAAAQEAAE1hY2lu
+					dG9zaCBIRAgAAAAEAwAAAACs1F0AAAAIAAAA
+					AAQAAEG12mIwAAAAJAAAAAEBAAAxODA4M0E2
+					QS0wN0IzLTNDMzAtOURGNi04ODc2NDQzQjY1
+					QjkYAAAAAQIAAIEAAAABAAgA7z8AAAEACAAA
+					AAAAAAAAAAEAAAABAQAALwAAAAQAAAADAwAA
+					AAEAAMgAAAABAgAANGVhNmNhMWZlMmY1ZmRl
+					ZDVhNjNlYWEyYWQwMDlkN2Q2NWFmM2QyMjsw
+					MDAwMDAwMDswMDAwMDAwMDAwMDAwMDIwO2Nv
+					bS5hcHBsZS5hcHAtc2FuZGJveC5yZWFkLXdy
+					aXRlOzAwMDAwMDAxOzAxMDAwMDA0OzAwMDAw
+					MDAwMDI3ODU5OTY7L3VzZXJzL3ByYXRvZnVu
+					Z3VzL2RvY3VtZW50cy9kcmF3L2NkIC9tb29y
+					L2xldHRlcnMvb2JzdGFjbGU2LnBuZwDwAAAA
+					/v///wEAAAAAAAAAEwAAAAQQAACIAAAAAAAA
+					AAUQAAAwAQAAAAAAABAQAABoAQAAAAAAAEAQ
+					AABYAQAAAAAAAFQQAACQAQAAAAAAAFUQAACc
+					AQAAAAAAAFYQAACIAQAAAAAAAAIgAABEAgAA
+					AAAAABAgAADEAQAAAAAAABEgAAD4AQAAAAAA
+					ABIgAADYAQAAAAAAABMgAADoAQAAAAAAACAg
+					AAAkAgAAAAAAADAgAACIAQAAAAAAAAHAAACo
+					AQAAAAAAABHAAAAUAAAAAAAAABLAAAC4AQAA
+					AAAAABDQAABQAgAAAAAAAIDwAABcAgAAAAAA
+					AA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-17, -55.75}</string>
+										<string>{17, -55.75}</string>
+										<string>{17, 55.75}</string>
+										<string>{-17, 55.75}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>223</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<true/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>111.5</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-17, -55.75}</string>
+								<key>LHWidth</key>
+								<real>34</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{0, 0}</string>
+									<string>{0, 68}</string>
+									<string>{-223, 68.000000000000014}</string>
+									<string>{-223, 1.4210854715202004e-14}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>68</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>bord</string>
+					<key>SHSpriteName</key>
+					<string>obstacle6</string>
+					<key>SheetImage</key>
+					<string>flappy_bord.png</string>
+					<key>SheetImage-HD</key>
+					<string>flappy_bord-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{314, 474}, {34, 111.5}}</string>
+						<key>Frame-HD</key>
+						<string>{{628, 948}, {68, 223}}</string>
+						<key>Image</key>
+						<string>flappy_bord.png</string>
+						<key>Image-HD</key>
+						<string>flappy_bord-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<true/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>obstacle6</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/draw/CD /moor/letters/obstacle6.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../../../../Documents/draw/CD%20/moor/letters/obstacle6.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {68, 223}}</string>
+						<key>OriginalSize</key>
+						<string>{68, 223}</string>
+						<key>Position</key>
+						<string>{628, 948}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{34, 111.5}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>obstacle7</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va1QEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAALAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3AwAAAAEBAABDRCAABAAA
+					AAEBAABtb29yBwAAAAEBAABsZXR0ZXJzAA0A
+					AAABAQAAb2JzdGFjbGU3LnBuZwAAACAAAAAB
+					BgAABAAAABQAAAAoAAAAPAAAAEgAAABUAAAA
+					YAAAAHAAAAAIAAAABAMAAKcDAgAAAAAACAAA
+					AAQDAAD/wQUAAAAAAAgAAAAEAwAAAMIFAAAA
+					AAAIAAAABAMAAHTeNQAAAAAACAAAAAQDAABl
+					kooAAAAAAAgAAAAEAwAA4M4mAgAAAAAIAAAA
+					BAMAAPCiRwIAAAAACAAAAAQDAACaWXgCAAAA
+					ACAAAAABBgAAsAAAAMAAAADQAAAA4AAAAPAA
+					AAAAAQAAEAEAACABAAAIAAAAAAQAAEG4suKC
+					AAAAGAAAAAECAAABAAAAAAAAAA8AAAAAAAAA
+					AAAAAAAAAAAAAAAAAQUAAAQAAAADAwAABwAA
+					AAQAAAADAwAABgAAAAgAAAAEAwAABgAAAAAA
+					AAAEAAAAAwMAAPUBAAAMAAAAAQEAAE1hY2lu
+					dG9zaCBIRAgAAAAEAwAAAACs1F0AAAAIAAAA
+					AAQAAEG12mIwAAAAJAAAAAEBAAAxODA4M0E2
+					QS0wN0IzLTNDMzAtOURGNi04ODc2NDQzQjY1
+					QjkYAAAAAQIAAIEAAAABAAgA7z8AAAEACAAA
+					AAAAAAAAAAEAAAABAQAALwAAAAQAAAADAwAA
+					AAEAAMgAAAABAgAAZTVlZmFkYTMxNTU1Nzhm
+					NzRlZjUyNDZmZDYzYTA1YWY3NjEwYTZlMDsw
+					MDAwMDAwMDswMDAwMDAwMDAwMDAwMDIwO2Nv
+					bS5hcHBsZS5hcHAtc2FuZGJveC5yZWFkLXdy
+					aXRlOzAwMDAwMDAxOzAxMDAwMDA0OzAwMDAw
+					MDAwMDI3ODU5OWE7L3VzZXJzL3ByYXRvZnVu
+					Z3VzL2RvY3VtZW50cy9kcmF3L2NkIC9tb29y
+					L2xldHRlcnMvb2JzdGFjbGU3LnBuZwDwAAAA
+					/v///wEAAAAAAAAAEwAAAAQQAACIAAAAAAAA
+					AAUQAAAwAQAAAAAAABAQAABoAQAAAAAAAEAQ
+					AABYAQAAAAAAAFQQAACQAQAAAAAAAFUQAACc
+					AQAAAAAAAFYQAACIAQAAAAAAAAIgAABEAgAA
+					AAAAABAgAADEAQAAAAAAABEgAAD4AQAAAAAA
+					ABIgAADYAQAAAAAAABMgAADoAQAAAAAAACAg
+					AAAkAgAAAAAAADAgAACIAQAAAAAAAAHAAACo
+					AQAAAAAAABHAAAAUAAAAAAAAABLAAAC4AQAA
+					AAAAABDQAABQAgAAAAAAAIDwAABcAgAAAAAA
+					AA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-15.75, -36.75}</string>
+										<string>{15.75, -36.75}</string>
+										<string>{15.75, 36.75}</string>
+										<string>{-15.75, 36.75}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>147</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<true/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>73.5</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-15.75, -36.75}</string>
+								<key>LHWidth</key>
+								<real>31.5</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{0, 0}</string>
+									<string>{0, 63}</string>
+									<string>{-147, 63.000000000000007}</string>
+									<string>{-147, 1.0658141036401503e-14}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>63</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>bord</string>
+					<key>SHSpriteName</key>
+					<string>obstacle7</string>
+					<key>SheetImage</key>
+					<string>flappy_bord.png</string>
+					<key>SheetImage-HD</key>
+					<string>flappy_bord-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{430, 442}, {31.5, 73.5}}</string>
+						<key>Frame-HD</key>
+						<string>{{860, 884}, {63, 147}}</string>
+						<key>Image</key>
+						<string>flappy_bord.png</string>
+						<key>Image-HD</key>
+						<string>flappy_bord-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<true/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>obstacle7</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/draw/CD /moor/letters/obstacle7.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../../../../Documents/draw/CD%20/moor/letters/obstacle7.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {63, 147}}</string>
+						<key>OriginalSize</key>
+						<string>{63, 147}</string>
+						<key>Position</key>
+						<string>{860, 884}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{31.5, 73.5}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+				<key>obstacle8</key>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va1QEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAALAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3AwAAAAEBAABDRCAABAAA
+					AAEBAABtb29yBwAAAAEBAABsZXR0ZXJzAA0A
+					AAABAQAAb2JzdGFjbGU4LnBuZwAAACAAAAAB
+					BgAABAAAABQAAAAoAAAAPAAAAEgAAABUAAAA
+					YAAAAHAAAAAIAAAABAMAAKcDAgAAAAAACAAA
+					AAQDAAD/wQUAAAAAAAgAAAAEAwAAAMIFAAAA
+					AAAIAAAABAMAAHTeNQAAAAAACAAAAAQDAABl
+					kooAAAAAAAgAAAAEAwAA4M4mAgAAAAAIAAAA
+					BAMAAPCiRwIAAAAACAAAAAQDAACdWXgCAAAA
+					ACAAAAABBgAAsAAAAMAAAADQAAAA4AAAAPAA
+					AAAAAQAAEAEAACABAAAIAAAAAAQAAEG4suKM
+					AAAAGAAAAAECAAABAAAAAAAAAA8AAAAAAAAA
+					AAAAAAAAAAAAAAAAAQUAAAQAAAADAwAABwAA
+					AAQAAAADAwAABgAAAAgAAAAEAwAABgAAAAAA
+					AAAEAAAAAwMAAPUBAAAMAAAAAQEAAE1hY2lu
+					dG9zaCBIRAgAAAAEAwAAAACs1F0AAAAIAAAA
+					AAQAAEG12mIwAAAAJAAAAAEBAAAxODA4M0E2
+					QS0wN0IzLTNDMzAtOURGNi04ODc2NDQzQjY1
+					QjkYAAAAAQIAAIEAAAABAAgA7z8AAAEACAAA
+					AAAAAAAAAAEAAAABAQAALwAAAAQAAAADAwAA
+					AAEAAMgAAAABAgAAYWJiMThmMzEwMDAyNzJm
+					ZWYzNmE2MmQ1OTNjZDkwNDczZTYzZDVhODsw
+					MDAwMDAwMDswMDAwMDAwMDAwMDAwMDIwO2Nv
+					bS5hcHBsZS5hcHAtc2FuZGJveC5yZWFkLXdy
+					aXRlOzAwMDAwMDAxOzAxMDAwMDA0OzAwMDAw
+					MDAwMDI3ODU5OWQ7L3VzZXJzL3ByYXRvZnVu
+					Z3VzL2RvY3VtZW50cy9kcmF3L2NkIC9tb29y
+					L2xldHRlcnMvb2JzdGFjbGU4LnBuZwDwAAAA
+					/v///wEAAAAAAAAAEwAAAAQQAACIAAAAAAAA
+					AAUQAAAwAQAAAAAAABAQAABoAQAAAAAAAEAQ
+					AABYAQAAAAAAAFQQAACQAQAAAAAAAFUQAACc
+					AQAAAAAAAFYQAACIAQAAAAAAAAIgAABEAgAA
+					AAAAABAgAADEAQAAAAAAABEgAAD4AQAAAAAA
+					ABIgAADYAQAAAAAAABMgAADoAQAAAAAAACAg
+					AAAkAgAAAAAAADAgAACIAQAAAAAAAAHAAACo
+					AQAAAAAAABHAAAAUAAAAAAAAABLAAAC4AQAA
+					AAAAABDQAABQAgAAAAAAAIDwAABcAgAAAAAA
+					AA==
+					</data>
+					<key>IsSHSprite</key>
+					<true/>
+					<key>PhysicProperties</key>
+					<dict>
+						<key>AngularDamping</key>
+						<real>0.0</real>
+						<key>AngularVelocity</key>
+						<real>0.0</real>
+						<key>CanSleep</key>
+						<true/>
+						<key>FixedRot</key>
+						<false/>
+						<key>GravityScale</key>
+						<real>1</real>
+						<key>HandledBySH</key>
+						<true/>
+						<key>IsBullet</key>
+						<false/>
+						<key>LinearDamping</key>
+						<real>0.0</real>
+						<key>LinearVelocity</key>
+						<string>{0, 0}</string>
+						<key>SH_ComplexShapes</key>
+						<array>
+							<dict>
+								<key>Angle</key>
+								<integer>0</integer>
+								<key>Category</key>
+								<integer>1</integer>
+								<key>Density</key>
+								<real>0.20000000298023224</real>
+								<key>Fixture</key>
+								<array>
+									<array>
+										<string>{-26.209339872930343, 50.489439519920694}</string>
+										<string>{-27.189119243972584, -52.841438538294597}</string>
+										<string>{-11.936822083783909, -49.486889045366297}</string>
+										<string>{-9.6098460775584726, 35.735993441939513}</string>
+									</array>
+									<array>
+										<string>{26.871999832622578, 48.365588505252845}</string>
+										<string>{-26.209339872930343, 50.489439519920694}</string>
+										<string>{-9.6098460775584726, 35.735993441939513}</string>
+										<string>{25.811567891403001, 33.579283972754979}</string>
+									</array>
+								</array>
+								<key>Friction</key>
+								<real>0.20000000298023224</real>
+								<key>Group</key>
+								<integer>0</integer>
+								<key>Height</key>
+								<real>0.0</real>
+								<key>HolesPoints</key>
+								<array/>
+								<key>IsCircle</key>
+								<false/>
+								<key>IsRectangle</key>
+								<false/>
+								<key>IsSensor</key>
+								<false/>
+								<key>LHHeight</key>
+								<real>0.0</real>
+								<key>LHShapePositionOffset</key>
+								<string>{-30.75, -52}</string>
+								<key>LHWidth</key>
+								<real>0.0</real>
+								<key>Mask</key>
+								<integer>65535</integer>
+								<key>Name</key>
+								<string>UntitledFixture</string>
+								<key>Restitution</key>
+								<real>0.20000000298023224</real>
+								<key>ShapePoints</key>
+								<array>
+									<string>{-209.68287707658919, 7.1217615120548459}</string>
+									<string>{-202.97377809073259, 37.626355832432196}</string>
+									<string>{-32.528013116120974, 42.280307844883055}</string>
+									<string>{-36.841432054490042, 113.123135782806}</string>
+									<string>{-7.2688229894943106, 115.24399966524516}</string>
+									<string>{-3.021120960158612, 9.0813202541393139}</string>
+								</array>
+								<key>ShapePositionOffset</key>
+								<string>{0, 0}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>Width</key>
+								<real>0.0</real>
+							</dict>
+						</array>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<key>SHSheetName</key>
+					<string>bord</string>
+					<key>SHSpriteName</key>
+					<string>obstacle8</string>
+					<key>SheetImage</key>
+					<string>flappy_bord.png</string>
+					<key>SheetImage-HD</key>
+					<string>flappy_bord-hd.png</string>
+					<key>TextureProperties</key>
+					<dict>
+						<key>Angle</key>
+						<integer>0</integer>
+						<key>Border</key>
+						<integer>0</integer>
+						<key>CanBeTrimmed</key>
+						<true/>
+						<key>Color</key>
+						<string>{{1, 1}, {1, 1}}</string>
+						<key>ConvertedFromOldFormat</key>
+						<false/>
+						<key>CustomClassName</key>
+						<string></string>
+						<key>FlipX</key>
+						<false/>
+						<key>FlipY</key>
+						<false/>
+						<key>Frame</key>
+						<string>{{4, 446}, {61.5, 104}}</string>
+						<key>Frame-HD</key>
+						<string>{{8, 892}, {123, 208}}</string>
+						<key>Image</key>
+						<string>flappy_bord.png</string>
+						<key>Image-HD</key>
+						<string>flappy_bord-hd.png</string>
+						<key>IsCropped</key>
+						<false/>
+						<key>IsDrawable</key>
+						<true/>
+						<key>IsRotated</key>
+						<true/>
+						<key>IsTrimmed</key>
+						<true/>
+						<key>Name</key>
+						<string>obstacle8</string>
+						<key>Opacity</key>
+						<real>1</real>
+						<key>OriginalImage</key>
+						<string>/Users/pratofungus/Documents/draw/CD /moor/letters/obstacle8.png</string>
+						<key>OriginalImage_RelativePath</key>
+						<string>../../../../../../Documents/draw/CD%20/moor/letters/obstacle8.png/</string>
+						<key>OriginalRect</key>
+						<string>{{0, 0}, {123, 208}}</string>
+						<key>OriginalSize</key>
+						<string>{123, 208}</string>
+						<key>Position</key>
+						<string>{8, 892}</string>
+						<key>Scale</key>
+						<string>{1, 1}</string>
+						<key>SpriteSize</key>
+						<string>{61.5, 104}</string>
+						<key>SpriteWasBreaked</key>
+						<false/>
+						<key>Tag</key>
+						<integer>0</integer>
+						<key>TextureOffset</key>
+						<string>{0, -0}</string>
+						<key>UsesBatchRendering</key>
+						<true/>
+						<key>ZOrder</key>
+						<integer>0</integer>
+					</dict>
+				</dict>
+			</dict>
+			<key>Size</key>
+			<string>{2048, 1024}</string>
+			<key>Trim</key>
+			<true/>
+			<key>ZOrder</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>SH_ANIMATIONS_LIST</key>
+	<array>
+		<dict>
+			<key>DelayPerUnit</key>
+			<real>0.05000000074505806</real>
+			<key>Frames</key>
+			<array>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va0wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAJAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3AwAAAAEBAABDRCAABAAA
+					AAEBAABtb29yBwAAAAEBAABsZXR0ZXJzAAkA
+					AAABAQAAYm9yZDEucG5nAAAAIAAAAAEGAAAE
+					AAAAFAAAACgAAAA8AAAASAAAAFQAAABgAAAA
+					cAAAAAgAAAAEAwAApwMCAAAAAAAIAAAABAMA
+					AP/BBQAAAAAACAAAAAQDAAAAwgUAAAAAAAgA
+					AAAEAwAAdN41AAAAAAAIAAAABAMAAGWSigAA
+					AAAACAAAAAQDAADgziYCAAAAAAgAAAAEAwAA
+					8KJHAgAAAAAIAAAABAMAANBYeAIAAAAAIAAA
+					AAEGAACsAAAAvAAAAMwAAADcAAAA7AAAAPwA
+					AAAMAQAAHAEAAAgAAAAABAAAQbiy4gkAAAAY
+					AAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAA
+					AAAAAAAAAAABBQAABAAAAAMDAAAHAAAABAAA
+					AAMDAAAGAAAACAAAAAQDAAAGAAAAAAAAAAQA
+					AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3No
+					IEhECAAAAAQDAAAAAKzUXQAAAAgAAAAABAAA
+					QbXaYjAAAAAkAAAAAQEAADE4MDgzQTZBLTA3
+					QjMtM0MzMC05REY2LTg4NzY0NDNCNjVCORgA
+					AAABAgAAgQAAAAEACADvPwAAAQAIAAAAAAAA
+					AAAAAQAAAAEBAAAvAAAABAAAAAMDAAAAAQAA
+					xAAAAAECAAA1YzNkMTU1OGU1OTI2Nzc2YjM2
+					MTQ3YTA5N2UwOWNjYmFkMmZkYjJhOzAwMDAw
+					MDAwOzAwMDAwMDAwMDAwMDAwMjA7Y29tLmFw
+					cGxlLmFwcC1zYW5kYm94LnJlYWQtd3JpdGU7
+					MDAwMDAwMDE7MDEwMDAwMDQ7MDAwMDAwMDAw
+					Mjc4NThkMDsvdXNlcnMvcHJhdG9mdW5ndXMv
+					ZG9jdW1lbnRzL2RyYXcvY2QgL21vb3IvbGV0
+					dGVycy9ib3JkMS5wbmcA8AAAAP7///8BAAAA
+					AAAAABMAAAAEEAAAhAAAAAAAAAAFEAAALAEA
+					AAAAAAAQEAAAZAEAAAAAAABAEAAAVAEAAAAA
+					AABUEAAAjAEAAAAAAABVEAAAmAEAAAAAAABW
+					EAAAhAEAAAAAAAACIAAAQAIAAAAAAAAQIAAA
+					wAEAAAAAAAARIAAA9AEAAAAAAAASIAAA1AEA
+					AAAAAAATIAAA5AEAAAAAAAAgIAAAIAIAAAAA
+					AAAwIAAAhAEAAAAAAAABwAAApAEAAAAAAAAR
+					wAAAFAAAAAAAAAASwAAAtAEAAAAAAAAQ0AAA
+					TAIAAAAAAACA8AAAWAIAAAAAAAA=
+					</data>
+					<key>Frame</key>
+					<string>{{240, 328}, {114, 114}}</string>
+					<key>Frame-HD</key>
+					<string>{{480, 656}, {228, 228}}</string>
+					<key>IsRotated</key>
+					<false/>
+					<key>OriginalImage</key>
+					<string>/Users/pratofungus/Documents/draw/CD /moor/letters/bord1.png</string>
+					<key>SpriteSize</key>
+					<string>{114, 114}</string>
+					<key>TextureOffset</key>
+					<string>{0, -0}</string>
+					<key>delayPerUnit</key>
+					<real>1</real>
+					<key>notifications</key>
+					<dict/>
+					<key>offset</key>
+					<string>{0, 0}</string>
+					<key>spriteframe</key>
+					<string>bord1</string>
+				</dict>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va0wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAJAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3AwAAAAEBAABDRCAABAAA
+					AAEBAABtb29yBwAAAAEBAABsZXR0ZXJzAAkA
+					AAABAQAAYm9yZDIucG5nAAAAIAAAAAEGAAAE
+					AAAAFAAAACgAAAA8AAAASAAAAFQAAABgAAAA
+					cAAAAAgAAAAEAwAApwMCAAAAAAAIAAAABAMA
+					AP/BBQAAAAAACAAAAAQDAAAAwgUAAAAAAAgA
+					AAAEAwAAdN41AAAAAAAIAAAABAMAAGWSigAA
+					AAAACAAAAAQDAADgziYCAAAAAAgAAAAEAwAA
+					8KJHAgAAAAAIAAAABAMAANNYeAIAAAAAIAAA
+					AAEGAACsAAAAvAAAAMwAAADcAAAA7AAAAPwA
+					AAAMAQAAHAEAAAgAAAAABAAAQbiy4hEAAAAY
+					AAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAA
+					AAAAAAAAAAABBQAABAAAAAMDAAAHAAAABAAA
+					AAMDAAAGAAAACAAAAAQDAAAGAAAAAAAAAAQA
+					AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3No
+					IEhECAAAAAQDAAAAAKzUXQAAAAgAAAAABAAA
+					QbXaYjAAAAAkAAAAAQEAADE4MDgzQTZBLTA3
+					QjMtM0MzMC05REY2LTg4NzY0NDNCNjVCORgA
+					AAABAgAAgQAAAAEACADvPwAAAQAIAAAAAAAA
+					AAAAAQAAAAEBAAAvAAAABAAAAAMDAAAAAQAA
+					xAAAAAECAAA5NzhmMzgzYjE3MTZlNDBkMDEx
+					ZDA0ZGE4MmMxOWNiYTU5YzA5MTIwOzAwMDAw
+					MDAwOzAwMDAwMDAwMDAwMDAwMjA7Y29tLmFw
+					cGxlLmFwcC1zYW5kYm94LnJlYWQtd3JpdGU7
+					MDAwMDAwMDE7MDEwMDAwMDQ7MDAwMDAwMDAw
+					Mjc4NThkMzsvdXNlcnMvcHJhdG9mdW5ndXMv
+					ZG9jdW1lbnRzL2RyYXcvY2QgL21vb3IvbGV0
+					dGVycy9ib3JkMi5wbmcA8AAAAP7///8BAAAA
+					AAAAABMAAAAEEAAAhAAAAAAAAAAFEAAALAEA
+					AAAAAAAQEAAAZAEAAAAAAABAEAAAVAEAAAAA
+					AABUEAAAjAEAAAAAAABVEAAAmAEAAAAAAABW
+					EAAAhAEAAAAAAAACIAAAQAIAAAAAAAAQIAAA
+					wAEAAAAAAAARIAAA9AEAAAAAAAASIAAA1AEA
+					AAAAAAATIAAA5AEAAAAAAAAgIAAAIAIAAAAA
+					AAAwIAAAhAEAAAAAAAABwAAApAEAAAAAAAAR
+					wAAAFAAAAAAAAAASwAAAtAEAAAAAAAAQ0AAA
+					TAIAAAAAAACA8AAAWAIAAAAAAAA=
+					</data>
+					<key>Frame</key>
+					<string>{{4, 328}, {114, 114}}</string>
+					<key>Frame-HD</key>
+					<string>{{8, 656}, {228, 228}}</string>
+					<key>IsRotated</key>
+					<false/>
+					<key>OriginalImage</key>
+					<string>/Users/pratofungus/Documents/draw/CD /moor/letters/bord2.png</string>
+					<key>SpriteSize</key>
+					<string>{114, 114}</string>
+					<key>TextureOffset</key>
+					<string>{0, -0}</string>
+					<key>delayPerUnit</key>
+					<real>1</real>
+					<key>notifications</key>
+					<dict/>
+					<key>offset</key>
+					<string>{0, 0}</string>
+					<key>spriteframe</key>
+					<string>bord2</string>
+				</dict>
+				<dict>
+					<key>DocumentSecurityImageBookmark</key>
+					<data>
+					Ym9va0wEAAAAAAQQMAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAJAMAAAUA
+					AAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRv
+					ZnVuZ3VzAAkAAAABAQAARG9jdW1lbnRzAAAA
+					BAAAAAEBAABkcmF3AwAAAAEBAABDRCAABAAA
+					AAEBAABtb29yBwAAAAEBAABsZXR0ZXJzAAkA
+					AAABAQAAYm9yZDMucG5nAAAAIAAAAAEGAAAE
+					AAAAFAAAACgAAAA8AAAASAAAAFQAAABgAAAA
+					cAAAAAgAAAAEAwAApwMCAAAAAAAIAAAABAMA
+					AP/BBQAAAAAACAAAAAQDAAAAwgUAAAAAAAgA
+					AAAEAwAAdN41AAAAAAAIAAAABAMAAGWSigAA
+					AAAACAAAAAQDAADgziYCAAAAAAgAAAAEAwAA
+					8KJHAgAAAAAIAAAABAMAANVYeAIAAAAAIAAA
+					AAEGAACsAAAAvAAAAMwAAADcAAAA7AAAAPwA
+					AAAMAQAAHAEAAAgAAAAABAAAQbiy4hgAAAAY
+					AAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAA
+					AAAAAAAAAAABBQAABAAAAAMDAAAHAAAABAAA
+					AAMDAAAGAAAACAAAAAQDAAAGAAAAAAAAAAQA
+					AAADAwAA9QEAAAwAAAABAQAATWFjaW50b3No
+					IEhECAAAAAQDAAAAAKzUXQAAAAgAAAAABAAA
+					QbXaYjAAAAAkAAAAAQEAADE4MDgzQTZBLTA3
+					QjMtM0MzMC05REY2LTg4NzY0NDNCNjVCORgA
+					AAABAgAAgQAAAAEACADvPwAAAQAIAAAAAAAA
+					AAAAAQAAAAEBAAAvAAAABAAAAAMDAAAAAQAA
+					xAAAAAECAABhMjNlMjY4YjVjYTNmOWYwZjIw
+					MWM3NTUzYjMwMzI2ZjYzZjg1OTE4OzAwMDAw
+					MDAwOzAwMDAwMDAwMDAwMDAwMjA7Y29tLmFw
+					cGxlLmFwcC1zYW5kYm94LnJlYWQtd3JpdGU7
+					MDAwMDAwMDE7MDEwMDAwMDQ7MDAwMDAwMDAw
+					Mjc4NThkNTsvdXNlcnMvcHJhdG9mdW5ndXMv
+					ZG9jdW1lbnRzL2RyYXcvY2QgL21vb3IvbGV0
+					dGVycy9ib3JkMy5wbmcA8AAAAP7///8BAAAA
+					AAAAABMAAAAEEAAAhAAAAAAAAAAFEAAALAEA
+					AAAAAAAQEAAAZAEAAAAAAABAEAAAVAEAAAAA
+					AABUEAAAjAEAAAAAAABVEAAAmAEAAAAAAABW
+					EAAAhAEAAAAAAAACIAAAQAIAAAAAAAAQIAAA
+					wAEAAAAAAAARIAAA9AEAAAAAAAASIAAA1AEA
+					AAAAAAATIAAA5AEAAAAAAAAgIAAAIAIAAAAA
+					AAAwIAAAhAEAAAAAAAABwAAApAEAAAAAAAAR
+					wAAAFAAAAAAAAAASwAAAtAEAAAAAAAAQ0AAA
+					TAIAAAAAAACA8AAAWAIAAAAAAAA=
+					</data>
+					<key>Frame</key>
+					<string>{{124, 328}, {114, 114}}</string>
+					<key>Frame-HD</key>
+					<string>{{248, 656}, {228, 228}}</string>
+					<key>IsRotated</key>
+					<false/>
+					<key>OriginalImage</key>
+					<string>/Users/pratofungus/Documents/draw/CD /moor/letters/bord3.png</string>
+					<key>SpriteSize</key>
+					<string>{114, 114}</string>
+					<key>TextureOffset</key>
+					<string>{0, -0}</string>
+					<key>delayPerUnit</key>
+					<real>1</real>
+					<key>notifications</key>
+					<dict/>
+					<key>offset</key>
+					<string>{0, 0}</string>
+					<key>spriteframe</key>
+					<string>bord3</string>
+				</dict>
+			</array>
+			<key>Loop</key>
+			<true/>
+			<key>Repetitions</key>
+			<integer>1</integer>
+			<key>RestoreOriginalFrame</key>
+			<false/>
+			<key>SheetImage</key>
+			<string>flappy_bord.png</string>
+			<key>SheetName</key>
+			<string>bord</string>
+			<key>StartAtLaunch</key>
+			<true/>
+			<key>UniqueName</key>
+			<string>bord</string>
+		</dict>
+	</array>
+	<key>SaveSettings</key>
+	<dict>
+		<key>Dither</key>
+		<false/>
+		<key>DocumentName</key>
+		<string>flappy</string>
+		<key>HD2XSuffix</key>
+		<string>-ipadhd</string>
+		<key>HDSuffix</key>
+		<string>-hd</string>
+		<key>ImageFormatId</key>
+		<integer>0</integer>
+		<key>Npot</key>
+		<true/>
+		<key>PvrFormat</key>
+		<integer>0</integer>
+		<key>PvrRemoveParent</key>
+		<true/>
+		<key>ResamplingAlgorithm</key>
+		<integer>0</integer>
+		<key>ResizingOptions</key>
+		<integer>1</integer>
+		<key>SaveStyle</key>
+		<integer>0</integer>
+	</dict>
+	<key>SceneFolderSandboxBookmark</key>
+	<data>
+	Ym9vazAEAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALAMA
+	AAUAAAABAQAAVXNlcnMAAAALAAAAAQEAAHByYXRvZnVuZ3VzAAkAAAABAQAARG93bmxv
+	YWRzAAAACwAAAAEBAABqZWN0LW1hc3RlcgAEAAAAAQEAAGplY3QRAAAAAQEAAFJvdGF0
+	ZSBBbmQgUm9sbCAyAAAAAgAAAAEBAABMSAAABwAAAAEBAABTUFJJVEVTACAAAAABBgAA
+	BAAAABQAAAAoAAAAPAAAAFAAAABcAAAAeAAAAIQAAAAIAAAABAMAAKcDAgAAAAAACAAA
+	AAQDAAD/wQUAAAAAAAgAAAAEAwAAAsIFAAAAAAAIAAAABAMAAMtAeAIAAAAACAAAAAQD
+	AADPQHgCAAAAAAgAAAAEAwAA0kB4AgAAAAAIAAAABAMAAABBeAIAAAAACAAAAAQDAABL
+	QXgCAAAAACAAAAABBgAAvAAAAMwAAADcAAAA7AAAAPwAAAAMAQAAHAEAACwBAAAIAAAA
+	AAQAAEG4mDxoAAAAGAAAAAECAAACAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAABAMA
+	AAYAAAAAAAAABAAAAAMDAAD1AQAADAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAAAA
+	rNRdAAAACAAAAAAEAABBtdpiMAAAACQAAAABAQAAMTgwODNBNkEtMDdCMy0zQzMwLTlE
+	RjYtODg3NjQ0M0I2NUI5GAAAAAECAACBAAAAAQAIAO8/AAABAAgAAAAAAAAAAAABAAAA
+	AQEAAC8AAAAAAAAAAQUAAAQAAAADAwAAAAEAANIAAAABAgAAMjk5YzkyMmE0Y2M4MmNj
+	NzkyODIwNzI4YTk1NmUzNTEzZmY1ZDZhMzswMDAwMDAwMDswMDAwMDAwMDAwMDAwMDIw
+	O2NvbS5hcHBsZS5hcHAtc2FuZGJveC5yZWFkLXdyaXRlOzAwMDAwMDAxOzAxMDAwMDA0
+	OzAwMDAwMDAwMDI3ODQxNGI7L3VzZXJzL3ByYXRvZnVuZ3VzL2Rvd25sb2Fkcy9qZWN0
+	LW1hc3Rlci9qZWN0L3JvdGF0ZSBhbmQgcm9sbCAyL2xoL3Nwcml0ZXMAAADMAAAA/v//
+	/wEAAAAAAAAAEAAAAAQQAACUAAAAAAAAAAUQAAA8AQAAAAAAABAQAAB0AQAAAAAAAEAQ
+	AABkAQAAAAAAAAIgAAAwAgAAAAAAABAgAACwAQAAAAAAABEgAADkAQAAAAAAABIgAADE
+	AQAAAAAAABMgAADUAQAAAAAAACAgAAAQAgAAAAAAADAgAAA8AgAAAAAAAAHAAACUAQAA
+	AAAAABHAAAAUAAAAAAAAABLAAACkAQAAAAAAABDQAABEAgAAAAAAAIDwAABQAgAAAAAA
+	AA==
+	</data>
+	<key>Version</key>
+	<string>1.8.307</string>
+</dict>
+</plist>
