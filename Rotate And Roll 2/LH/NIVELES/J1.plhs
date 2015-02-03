@@ -19,6 +19,7 @@
 			<array>
 				<dict>
 					<key>Children</key>
+                    
 					<array>
 						<dict>
 							<key>AnimationsProperties</key>
@@ -191,7 +192,7 @@
 							<key>ParentClass</key>
 							<string>LHBatch</string>
 							<key>ParentName</key>
-							<string>broken</string>
+							<string>bord</string>
 							<key>PathProperties</key>
 							<dict/>
 							<key>PhysicProperties</key>
@@ -200,17 +201,17 @@
 								<true/>
 							</dict>
 							<key>SHSceneName</key>
-							<string>broken.pshs</string>
+							<string>flappy.pshs</string>
 							<key>SHSheetName</key>
-							<string>broken</string>
+							<string>bord</string>
 							<key>SHSpriteName</key>
-							<string>broken1</string>
+							<string>obstacle7</string>
 							<key>SheetImage</key>
-							<string>broken_broken.png</string>
+							<string>flappy_bord.png</string>
 							<key>TextureProperties</key>
 							<dict>
 								<key>Angle</key>
-								<integer>225</integer>
+								<integer>88</integer>
 								<key>Color</key>
 								<string>{{1, 1}, {1, 1}}</string>
 								<key>FlipX</key>
@@ -218,7 +219,7 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
+								<string>{{430, 442}, {31.5, 73.5}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
@@ -230,2455 +231,25 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{9.0862051212574073, 270.85632479790434}</string>
+								<string>{267.82205418011262, 169.02296202936768}</string>
 								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
+								<string>{1, 1}</string>
 								<key>SpriteSize</key>
-								<string>{59, 236}</string>
+								<string>{31.5, 73.5}</string>
 								<key>Tag</key>
-								<integer>5</integer>
+								<integer>0</integer>
 								<key>TagName</key>
-								<string>TAG_BROKEN</string>
+								<string>DEFAULT</string>
 								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
+								<string>{0, -0}</string>
 								<key>UniqueName</key>
-								<string>broken1_13</string>
+								<string>obstacle7</string>
 								<key>ZOrder</key>
 								<integer>0</integer>
 							</dict>
 							<key>UniqueName</key>
-							<string>broken1_13</string>
+							<string>obstacle7</string>
 						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>253</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{67.12456898849895, 232.88199679946814}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_17</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_17</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>285</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{135.31816403014841, 232.49319928066399}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_18</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_18</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>116</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{205.31460007849273, 257.92169275436606}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_19</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_19</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>270</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{270.44682118296623, 272.88829470425844}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_20</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_20</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>267</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{414.44682063294101, 240.88829561924456}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_22</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_22</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>67</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{346.59332767147413, 257.66141778380648}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_21</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_21</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>309</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{483.19351345208565, 259.49822832447836}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>293</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{544.58288111453919, 297.37533397241691}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_1</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_1</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>265</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{611.71874648278208, 307.43605306098004}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_2</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_2</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>233</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{679.99120816182904, 282.83376417256852}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_3</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_3</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>225</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{734.13350736735117, 234.85632479790434}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_4</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_4</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>116</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{930.36190232458648, 221.92169275436606}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_5</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_5</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>285</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{860.36546627624216, 196.49319928066399}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_6</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_6</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>253</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{792.17187123459269, 196.88199679946814}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_7</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_7</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>233</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{1405.0385104079228, 246.83376417256852}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_8</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_8</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>309</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{1208.2408156981794, 223.49822832447836}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_9</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_9</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>293</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{1269.6301833606331, 261.37533397241691}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_10</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_10</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>270</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{1139.49412342906, 204.88829470425844}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_11</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_11</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>67</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{1071.6406299175678, 221.66141778380648}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_12</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_12</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>270</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{995.49412342905998, 236.88829470425844}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_14</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_14</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>265</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{1336.7660487288758, 271.43605306098004}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_15</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_15</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>67</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{1796.6879321636616, 187.66141778380648}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_16</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_16</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>309</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{1933.2881179442732, 189.49822832447836}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_23</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_23</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>253</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{1517.2191734806865, 162.88199679946814}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_24</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_24</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>116</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{1655.4092045706802, 187.92169275436606}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_25</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_25</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>293</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{1994.6774856067268, 227.37533397241691}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_26</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_26</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>270</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{1864.5414256751537, 170.88829470425844}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_27</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_27</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>265</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{2061.8133509749696, 237.43605306098004}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_28</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_28</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>233</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{2130.0858126540165, 212.83376417256852}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_29</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_29</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>285</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{1585.4127685223359, 162.49319928066399}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_30</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_30</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>225</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{1459.180809613445, 200.85632479790434}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_31</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_31</string>
-						</dict>
-						<dict>
-							<key>AnimationsProperties</key>
-							<dict/>
-							<key>Children</key>
-							<array/>
-							<key>CustomClassInfo</key>
-							<dict>
-								<key>ClassDefaults</key>
-								<dict/>
-								<key>ClassName</key>
-								<string>No Class</string>
-							</dict>
-							<key>NodeType</key>
-							<string>LHSprite</string>
-							<key>ParentClass</key>
-							<string>LHBatch</string>
-							<key>ParentName</key>
-							<string>broken</string>
-							<key>PathProperties</key>
-							<dict/>
-							<key>PhysicProperties</key>
-							<dict>
-								<key>HandledBySH</key>
-								<true/>
-							</dict>
-							<key>SHSceneName</key>
-							<string>broken.pshs</string>
-							<key>SHSheetName</key>
-							<string>broken</string>
-							<key>SHSpriteName</key>
-							<string>broken1</string>
-							<key>SheetImage</key>
-							<string>broken_broken.png</string>
-							<key>TextureProperties</key>
-							<dict>
-								<key>Angle</key>
-								<integer>270</integer>
-								<key>Color</key>
-								<string>{{1, 1}, {1, 1}}</string>
-								<key>FlipX</key>
-								<false/>
-								<key>FlipY</key>
-								<false/>
-								<key>Frame</key>
-								<string>{{4, 632}, {58, 236}}</string>
-								<key>IsDrawable</key>
-								<true/>
-								<key>IsExpanded</key>
-								<false/>
-								<key>IsRotated</key>
-								<true/>
-								<key>Locked</key>
-								<false/>
-								<key>Opacity</key>
-								<real>1</real>
-								<key>Position</key>
-								<string>{1720.5414256751537, 202.88829470425844}</string>
-								<key>Scale</key>
-								<string>{0.24107475578784943, 0.24107475578784943}</string>
-								<key>SpriteSize</key>
-								<string>{59, 236}</string>
-								<key>Tag</key>
-								<integer>5</integer>
-								<key>TagName</key>
-								<string>TAG_BROKEN</string>
-								<key>TextureOffset</key>
-								<string>{-0.5, -0}</string>
-								<key>UniqueName</key>
-								<string>broken1_32</string>
-								<key>ZOrder</key>
-								<integer>0</integer>
-							</dict>
-							<key>UniqueName</key>
-							<string>broken1_32</string>
-						</dict>
-					</array>
-					<key>CustomClassInfo</key>
-					<dict>
-						<key>ClassName</key>
-						<string>No Class</string>
-					</dict>
-					<key>NodeType</key>
-					<string>LHBatch</string>
-					<key>ParentClass</key>
-					<string>LHLayer</string>
-					<key>ParentName</key>
-					<string>MAIN_LAYER</string>
-					<key>SHScene</key>
-					<string>broken.pshs</string>
-					<key>SheetImage</key>
-					<string>broken_broken.png</string>
-					<key>SheetImageRelative</key>
-					<string>/SPRITES/broken_broken.png</string>
-					<key>Tag</key>
-					<integer>0</integer>
-					<key>TagName</key>
-					<string>DEFAULT</string>
-					<key>UniqueName</key>
-					<string>broken</string>
-					<key>ZOrder</key>
-					<integer>0</integer>
-				</dict>
-				<dict>
-					<key>Children</key>
-					<array>
 						<dict>
 							<key>AnimationsProperties</key>
 							<dict/>
@@ -2715,7 +286,7 @@
 							<key>TextureProperties</key>
 							<dict>
 								<key>Angle</key>
-								<integer>308</integer>
+								<integer>0</integer>
 								<key>Color</key>
 								<string>{{1, 1}, {1, 1}}</string>
 								<key>FlipX</key>
@@ -2735,9 +306,9 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{437.5646155655474, 65.855574397930539}</string>
+								<string>{683.25, 173.5}</string>
 								<key>Scale</key>
-								<string>{0.67856079339981079, 0.67856079339981079}</string>
+								<string>{1, 1}</string>
 								<key>SpriteSize</key>
 								<string>{86.5, 43}</string>
 								<key>Tag</key>
@@ -2784,13 +355,13 @@
 							<key>SHSheetName</key>
 							<string>bord</string>
 							<key>SHSpriteName</key>
-							<string>obstacle4</string>
+							<string>obstacle3</string>
 							<key>SheetImage</key>
 							<string>flappy_bord.png</string>
 							<key>TextureProperties</key>
 							<dict>
 								<key>Angle</key>
-								<integer>316</integer>
+								<integer>0</integer>
 								<key>Color</key>
 								<string>{{1, 1}, {1, 1}}</string>
 								<key>FlipX</key>
@@ -2798,23 +369,23 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{358, 328}, {86.5, 43}}</string>
+								<string>{{112, 446}, {158.5, 27.5}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
 								<false/>
 								<key>IsRotated</key>
-								<true/>
+								<false/>
 								<key>Locked</key>
 								<false/>
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{1538.4912516260156, 32.901465154137668}</string>
+								<string>{502.98175029427773, 168.58225052588432}</string>
 								<key>Scale</key>
-								<string>{0.50045573711395264, 0.50045573711395264}</string>
+								<string>{1, 1}</string>
 								<key>SpriteSize</key>
-								<string>{86.5, 43}</string>
+								<string>{158.5, 27.5}</string>
 								<key>Tag</key>
 								<integer>0</integer>
 								<key>TagName</key>
@@ -2822,12 +393,12 @@
 								<key>TextureOffset</key>
 								<string>{0, -0}</string>
 								<key>UniqueName</key>
-								<string>obstacle4_2</string>
+								<string>obstacle3</string>
 								<key>ZOrder</key>
 								<integer>0</integer>
 							</dict>
 							<key>UniqueName</key>
-							<string>obstacle4_2</string>
+							<string>obstacle3</string>
 						</dict>
 						<dict>
 							<key>AnimationsProperties</key>
@@ -2859,13 +430,13 @@
 							<key>SHSheetName</key>
 							<string>bord</string>
 							<key>SHSpriteName</key>
-							<string>obstacle4</string>
+							<string>obstacle1</string>
 							<key>SheetImage</key>
 							<string>flappy_bord.png</string>
 							<key>TextureProperties</key>
 							<dict>
 								<key>Angle</key>
-								<integer>330</integer>
+								<integer>0</integer>
 								<key>Color</key>
 								<string>{{1, 1}, {1, 1}}</string>
 								<key>FlipX</key>
@@ -2873,23 +444,23 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{358, 328}, {86.5, 43}}</string>
+								<string>{{112, 478}, {198, 21}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
 								<false/>
 								<key>IsRotated</key>
-								<true/>
+								<false/>
 								<key>Locked</key>
 								<false/>
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{1315.4789825936996, 180.26821932381256}</string>
+								<string>{899, 170.5}</string>
 								<key>Scale</key>
-								<string>{0.67856079339981079, 0.67856079339981079}</string>
+								<string>{1, 1}</string>
 								<key>SpriteSize</key>
-								<string>{86.5, 43}</string>
+								<string>{198, 21}</string>
 								<key>Tag</key>
 								<integer>0</integer>
 								<key>TagName</key>
@@ -2897,12 +468,12 @@
 								<key>TextureOffset</key>
 								<string>{0, -0}</string>
 								<key>UniqueName</key>
-								<string>obstacle4_4</string>
+								<string>obstacle1</string>
 								<key>ZOrder</key>
 								<integer>0</integer>
 							</dict>
 							<key>UniqueName</key>
-							<string>obstacle4_4</string>
+							<string>obstacle1</string>
 						</dict>
 						<dict>
 							<key>AnimationsProperties</key>
@@ -2934,13 +505,13 @@
 							<key>SHSheetName</key>
 							<string>bord</string>
 							<key>SHSpriteName</key>
-							<string>obstacle4</string>
+							<string>obstacle5</string>
 							<key>SheetImage</key>
 							<string>flappy_bord.png</string>
 							<key>TextureProperties</key>
 							<dict>
 								<key>Angle</key>
-								<integer>316</integer>
+								<integer>271</integer>
 								<key>Color</key>
 								<string>{{1, 1}, {1, 1}}</string>
 								<key>FlipX</key>
@@ -2948,7 +519,7 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{358, 328}, {86.5, 43}}</string>
+								<string>{{358, 420}, {19, 89}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
@@ -2960,11 +531,11 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{1975.0442858099548, 24.70427177988218}</string>
+								<string>{1214.9331299299668, 101.271542068697}</string>
 								<key>Scale</key>
-								<string>{0.50045573711395264, 0.50045573711395264}</string>
+								<string>{1.2300567626953125, 1.2300567626953125}</string>
 								<key>SpriteSize</key>
-								<string>{86.5, 43}</string>
+								<string>{19, 89}</string>
 								<key>Tag</key>
 								<integer>0</integer>
 								<key>TagName</key>
@@ -2972,12 +543,12 @@
 								<key>TextureOffset</key>
 								<string>{0, -0}</string>
 								<key>UniqueName</key>
-								<string>obstacle4_5</string>
+								<string>obstacle5</string>
 								<key>ZOrder</key>
 								<integer>0</integer>
 							</dict>
 							<key>UniqueName</key>
-							<string>obstacle4_5</string>
+							<string>obstacle5</string>
 						</dict>
 						<dict>
 							<key>AnimationsProperties</key>
@@ -3009,13 +580,13 @@
 							<key>SHSheetName</key>
 							<string>bord</string>
 							<key>SHSpriteName</key>
-							<string>obstacle4</string>
+							<string>obstacle6</string>
 							<key>SheetImage</key>
 							<string>flappy_bord.png</string>
 							<key>TextureProperties</key>
 							<dict>
 								<key>Angle</key>
-								<integer>315</integer>
+								<integer>270</integer>
 								<key>Color</key>
 								<string>{{1, 1}, {1, 1}}</string>
 								<key>FlipX</key>
@@ -3023,7 +594,7 @@
 								<key>FlipY</key>
 								<false/>
 								<key>Frame</key>
-								<string>{{358, 328}, {86.5, 43}}</string>
+								<string>{{314, 474}, {34, 111.5}}</string>
 								<key>IsDrawable</key>
 								<true/>
 								<key>IsExpanded</key>
@@ -3035,11 +606,11 @@
 								<key>Opacity</key>
 								<real>1</real>
 								<key>Position</key>
-								<string>{1341.2417830028373, 186.86472926159516}</string>
+								<string>{1483.3092259075208, 234.49102067817205}</string>
 								<key>Scale</key>
-								<string>{0.46394467353820801, 0.46394467353820801}</string>
+								<string>{0.94854146242141724, 0.94854146242141724}</string>
 								<key>SpriteSize</key>
-								<string>{86.5, 43}</string>
+								<string>{34, 111.5}</string>
 								<key>Tag</key>
 								<integer>0</integer>
 								<key>TagName</key>
@@ -3047,12 +618,87 @@
 								<key>TextureOffset</key>
 								<string>{0, -0}</string>
 								<key>UniqueName</key>
-								<string>obstacle4_6</string>
+								<string>obstacle6</string>
 								<key>ZOrder</key>
 								<integer>0</integer>
 							</dict>
 							<key>UniqueName</key>
-							<string>obstacle4_6</string>
+							<string>obstacle6</string>
+						</dict>
+						<dict>
+							<key>AnimationsProperties</key>
+							<dict/>
+							<key>Children</key>
+							<array/>
+							<key>CustomClassInfo</key>
+							<dict>
+								<key>ClassDefaults</key>
+								<dict/>
+								<key>ClassName</key>
+								<string>No Class</string>
+							</dict>
+							<key>NodeType</key>
+							<string>LHSprite</string>
+							<key>ParentClass</key>
+							<string>LHBatch</string>
+							<key>ParentName</key>
+							<string>bord</string>
+							<key>PathProperties</key>
+							<dict/>
+							<key>PhysicProperties</key>
+							<dict>
+								<key>HandledBySH</key>
+								<true/>
+							</dict>
+							<key>SHSceneName</key>
+							<string>flappy.pshs</string>
+							<key>SHSheetName</key>
+							<string>bord</string>
+							<key>SHSpriteName</key>
+							<string>obstacle3</string>
+							<key>SheetImage</key>
+							<string>flappy_bord.png</string>
+							<key>TextureProperties</key>
+							<dict>
+								<key>Angle</key>
+								<integer>89</integer>
+								<key>Color</key>
+								<string>{{1, 1}, {1, 1}}</string>
+								<key>FlipX</key>
+								<false/>
+								<key>FlipY</key>
+								<false/>
+								<key>Frame</key>
+								<string>{{112, 446}, {158.5, 27.5}}</string>
+								<key>IsDrawable</key>
+								<true/>
+								<key>IsExpanded</key>
+								<false/>
+								<key>IsRotated</key>
+								<false/>
+								<key>Locked</key>
+								<false/>
+								<key>Opacity</key>
+								<real>1</real>
+								<key>Position</key>
+								<string>{1648.8271661753793, 87.046529410181193}</string>
+								<key>Scale</key>
+								<string>{1, 1}</string>
+								<key>SpriteSize</key>
+								<string>{158.5, 27.5}</string>
+								<key>Tag</key>
+								<integer>0</integer>
+								<key>TagName</key>
+								<string>DEFAULT</string>
+								<key>TextureOffset</key>
+								<string>{0, -0}</string>
+								<key>UniqueName</key>
+								<string>obstacle3_1</string>
+								<key>ZOrder</key>
+								<integer>0</integer>
+							</dict>
+							<key>UniqueName</key>
+							<string>obstacle3_1</string>
 						</dict>
 					</array>
 					<key>CustomClassInfo</key>
@@ -3125,7 +771,7 @@
 		<key>2HDSuffix</key>
 		<string>-ipadhd</string>
 		<key>BackgroundColor</key>
-		<string>{{0.17984721064567566, 0.31106099486351013}, {0.57415562868118286, -3.1520336215599189e+284}}</string>
+		<string>{{0.18592488765716553, 0.24682304263114929}, {1, -9.4351439784573209e+192}}</string>
 		<key>BundleIdentifier</key>
 		<string></string>
 		<key>CustomClasses</key>

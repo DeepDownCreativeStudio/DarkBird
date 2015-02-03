@@ -5,7 +5,7 @@
 //  Created by Bogdan Vladu on 15.03.2011.
 //
 // Import the interfaces
-#import "mainScene.h"
+#import "MainScene.h"
 #import "GameScene.h"
 #import "SimpleAudioEngine.h"
 
@@ -16,12 +16,8 @@ const int32 POSITION_ITERATIONS = 8;
 const int32 MAXIMUM_NUMBER_OF_STEPS = 25;
 
 // mainScene implementation
-@implementation mainScene
+@implementation MainScene
 
--(void)afterStep {
-	// process collisions and result from callbacks called by the step
-}
-////////////////////////////////////////////////////////////////////////////////
 -(void)step:(ccTime)dt {
 	float32 frameTime = dt;
 	int stepsPerformed = 0;
@@ -34,32 +30,26 @@ const int32 MAXIMUM_NUMBER_OF_STEPS = 25;
 		}
 		world->Step(deltaTime,VELOCITY_ITERATIONS,POSITION_ITERATIONS);
 		stepsPerformed++;
-		[self afterStep]; // process collisions and result from callbacks called by the step
 	}
 	world->ClearForces ();
 }
-////////////////////////////////////////////////////////////////////////////////
+
+
 +(id) scene
 {
-	// 'scene' is an autorelease object.
 	CCScene *scene = [CCScene node];
-	
-	// 'layer' is an autorelease object.
-	mainScene *layer = [mainScene node];
-	
-	// add layer as a child to scene
+	MainScene *layer = [MainScene node];
 	[scene addChild: layer];
-	
-	// return the scene
 	return scene;
 }
-////////////////////////////////////////////////////////////////////////////////
-// initialize your instance here
--(id) init
-{
-	if( (self=[super init])) {
-        
-		// enable touches
+
+-(id) init {
+    
+    self = [super init];
+    
+	if (self) {
+ 
+
 		self.isTouchEnabled = YES;
 		
 		// enable accelerometer
@@ -88,7 +78,7 @@ const int32 MAXIMUM_NUMBER_OF_STEPS = 25;
 		[self schedule: @selector(tick:) interval:1.0f/60.0f];
 		
         //TUTORIAL - loading one of the levels - test each level to see how it works
-        lh = [[LevelHelperLoader alloc] initWithContentOfFile:@"M1"];
+        lh = [[LevelHelperLoader alloc] initWithContentOfFile:@"M4"];
 	        
         //creating the objects
         [lh addObjectsToWorld:world cocos2dLayer:self];
@@ -169,26 +159,15 @@ const int32 MAXIMUM_NUMBER_OF_STEPS = 25;
                 [spr playAnimation];
                 }
             }
+            else {
+                [spr removeSelf];
+            }
         }
         LHSprite* fst = [lh spriteWithUniqueName:@"point_0"];
         int amount = [[self.arrStars objectAtIndex:1] intValue];
             [fst prepareAnimationNamed:[NSString stringWithFormat:@"bol%i",amount] fromSHScene:@"bol.pshs"];
             [fst playAnimation];
     }
-    
-}
-
-- (CGRect) selfScreen {
-    
-    
-    
-    CGFloat a = 480;
-    CGFloat b = [UIScreen mainScreen].bounds.size.width;
-    
-    if (a>b) {return CGRectMake(0, 0, b, a);}
-    else { return CGRectMake(0, 0, a, b);}
-    
-    
     
 }
 
@@ -209,8 +188,7 @@ const int32 MAXIMUM_NUMBER_OF_STEPS = 25;
     
     [blow runAction:repeats];
     }
-    
-    
+
     
     
     for (LHSprite* spr in [lh spritesWithTag:TAG_LOST]) {
@@ -219,9 +197,8 @@ const int32 MAXIMUM_NUMBER_OF_STEPS = 25;
                                                                           withString:@""];
             int level = [numStr integerValue];
             level++;
-            spr.color = ccWHITE;
             if (level > levelHigh) {
-                spr.color = ccRED;
+                spr.color = ccGRAY;
             }
         }
     }
@@ -261,7 +238,7 @@ const int32 MAXIMUM_NUMBER_OF_STEPS = 25;
 //	glDisableClientState(GL_COLOR_ARRAY);
 	//glDisableClientState(GL_TEXTURE_COORD_ARRAY);
 	
-	world->DrawDebugData();
+	//world->DrawDebugData();
 	
 	// restore default GL states
 //	glEnable(GL_TEXTURE_2D);
@@ -269,23 +246,19 @@ const int32 MAXIMUM_NUMBER_OF_STEPS = 25;
 //	glEnableClientState(GL_TEXTURE_COORD_ARRAY);
 
 }
-////////////////////////////////////////////////////////////////////////////////
-//FIX TIME STEPT------------>>>>>>>>>>>>>>>>>>
+
 -(void) tick: (ccTime) dt
 {
 	[self step:dt];
     
-	//Iterate over the bodies in the physics world
 	for (b2Body* b = world->GetBodyList(); b; b = b->GetNext())
 	{
 		if (b->GetUserData() != NULL) 
         {
-			//Synchronize the AtlasSprites position and rotation with the corresponding body
 			CCSprite *myActor = (CCSprite*)b->GetUserData();
             
             if(myActor != 0)
             {
-                //THIS IS VERY IMPORTANT - GETTING THE POSITION FROM BOX2D TO COCOS2D
                 myActor.position = [LevelHelperLoader metersToPoints:b->GetPosition()];
                 myActor.rotation = -1 * CC_RADIANS_TO_DEGREES(b->GetAngle());		
             }
@@ -296,7 +269,7 @@ const int32 MAXIMUM_NUMBER_OF_STEPS = 25;
     
     
     LHSprite*fst = [lh spriteWithUniqueName:@"point_0"];
-    LHSprite*lst = [lh spriteWithUniqueName:@"point_29"];
+    LHSprite*lst = [lh spriteWithUniqueName:@"point_99"];
     
     //BOLITAS
     
@@ -310,7 +283,7 @@ const int32 MAXIMUM_NUMBER_OF_STEPS = 25;
          if (follow.position.x > -200 && follow.position.x < 730) {
         
         float dimer = [self selfScreen].size.height / 2 - follow.position.x;
-        dimer = sqrtf(powf(dimer, 2));
+             if (dimer<0) {dimer = -dimer;}
         dimer = (dimer / ([self selfScreen].size.height / 2)) * 125;
         if (dimer> 125) {dimer = 125;}
         dimer = 255 - dimer;
@@ -325,7 +298,7 @@ const int32 MAXIMUM_NUMBER_OF_STEPS = 25;
     }
     
     float dimer = [self selfScreen].size.height / 2 - fst.position.x;
-    dimer = sqrtf(powf(dimer, 2));
+    if (dimer<0) {dimer = -dimer;}
     dimer = (dimer / ([self selfScreen].size.height / 2)) * 125;
     if (dimer> 125) {dimer = 125;}
     dimer = 255 - dimer;
@@ -399,6 +372,53 @@ const int32 MAXIMUM_NUMBER_OF_STEPS = 25;
     
         float swap;
         swap =[fst body] -> GetLinearVelocity().x * .95;
+        
+        
+        float dist = spriteOp.position.x - [self selfScreen].size.height / 2;
+        if (dist < 0) {dist = - dist;}
+        if (dist>=0 && [self selfScreen].size.height != 480) {switched = true;}
+        if (dist>20 && [self selfScreen].size.height == 480) {switched = true;}
+        if (swap<0&&swap>-10 && switched) {
+            LHSprite* forth;
+            
+            if (spriteOp.position.x + 5 >[self selfScreen].size.height / 2) {
+                forth = spriteOp;
+            }
+            else {
+     
+                NSString* numStr = [spriteOp.uniqueName stringByReplacingOccurrencesOfString:@"point_"
+                                                                                  withString:@""];
+                int nextLevel = [numStr integerValue];
+                nextLevel++;
+                forth = [lh spriteWithUniqueName:[NSString stringWithFormat:@"point_%i", nextLevel]];
+            }
+            float vel = forth.position.x - [self selfScreen].size.height / 2;
+            swap = -.1 * vel;
+        }
+        
+        if (swap>0&&swap<10&& switched) {
+            LHSprite* forth;
+            
+            if (spriteOp.position.x - 5 <[self selfScreen].size.height / 2) {
+                forth = spriteOp;
+            }
+            else {
+                
+                NSString* numStr = [spriteOp.uniqueName stringByReplacingOccurrencesOfString:@"point_"
+                                                                                  withString:@""];
+                int nextLevel = [numStr integerValue];
+                nextLevel--;
+                forth = [lh spriteWithUniqueName:[NSString stringWithFormat:@"point_%i", nextLevel]];
+            }
+            float vel = forth.position.x - [self selfScreen].size.height / 2;
+            swap = -.1 * vel;
+        }
+        else {
+            switched = false;
+        }
+         
+
+        
         [fst body] -> SetLinearVelocity(b2Vec2(swap, 0));
         swap = -swap + 14;
         if (swap<1) {swap = 1;}
@@ -476,7 +496,7 @@ const int32 MAXIMUM_NUMBER_OF_STEPS = 25;
                     [self goTo:nextLevel];
                     }
                     else {
-                     [[SimpleAudioEngine sharedEngine] playEffect:@"bounce.mp3"];
+                     [[SimpleAudioEngine sharedEngine] playEffect:@"transe.mp3"];
                     }
                         
                 }
@@ -492,6 +512,20 @@ const int32 MAXIMUM_NUMBER_OF_STEPS = 25;
     }
 }
 
+- (CGRect) selfScreen {
+    
+    
+    
+    CGFloat a = [UIScreen mainScreen].bounds.size.height;
+    CGFloat b = [UIScreen mainScreen].bounds.size.width;
+    
+    if (a>b) {return CGRectMake(0, 0, b, a);}
+    else { return CGRectMake(0, 0, a, b);}
+    
+    
+    
+}
+
 -(void) goTo :(int) change {
 
     NSMutableArray* starter = [[NSMutableArray alloc]init];
@@ -499,7 +533,7 @@ const int32 MAXIMUM_NUMBER_OF_STEPS = 25;
     [starter addObject:[NSNumber numberWithInt:levelHigh]];
     [[NSUserDefaults standardUserDefaults] setObject:[NSKeyedArchiver archivedDataWithRootObject:starter]
                                               forKey:[NSString stringWithFormat:@"data"]];
-     [[SimpleAudioEngine sharedEngine] playEffect:@"crow.wav"];
+     [[SimpleAudioEngine sharedEngine] playEffect:@"ganar.mp3"];
     [[CCDirector sharedDirector] replaceScene:[CCTransitionFade transitionWithDuration:0.4 scene:[GameScene scene] withColor:ccWHITE]];
 }
 ////////////////////////////////////////////////////////////////////////////////

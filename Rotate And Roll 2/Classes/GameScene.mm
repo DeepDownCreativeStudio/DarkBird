@@ -20,7 +20,7 @@
 #import "LHSprite.h"
 #import "GameCenterManager.h"
 #import "GameDataParser.h"
-#import "mainScene.h"
+#import "MainScene.h"
 
 
 extern int Nivel;
@@ -250,7 +250,7 @@ static const float MAX_SCALE = 1.5;
 - (void) back {
     if (noSeguir == false) {
         noSeguir = true;
-        [[CCDirector sharedDirector] replaceScene:[CCTransitionFade transitionWithDuration:0.5 scene:[mainScene scene]]];
+        [[CCDirector sharedDirector] replaceScene:[CCTransitionFade transitionWithDuration:0.5 scene:[MainScene scene]]];
         [[SimpleAudioEngine sharedEngine] playEffect:@"crow.mp3"];
     }
 }
