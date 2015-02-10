@@ -1225,7 +1225,13 @@ CGSize  LHSizeFromString(NSString* val){
         [self setFixtureDefPropertiesFromDictionary:wb fixture:&fixture];
         fixture.shape = &shape;
         wbBodyB->CreateFixture(&fixture);
-    }    
+    }
+    
+    for (b2Fixture* f = wbBodyT->GetFixtureList(); f; f = f->GetNext()) { f -> SetSensor(YES);}
+    for (b2Fixture* f = wbBodyL->GetFixtureList(); f; f = f->GetNext()) { f -> SetSensor(YES);}
+    for (b2Fixture* f = wbBodyB->GetFixtureList(); f; f = f->GetNext()) { f -> SetSensor(YES);}
+    for (b2Fixture* f = wbBodyR->GetFixtureList(); f; f = f->GetNext()) { f -> SetSensor(YES);}
+    
 }
 //------------------------------------------------------------------------------
 -(void) createPhysicBoundariesNoStretching:(b2World *)_world{

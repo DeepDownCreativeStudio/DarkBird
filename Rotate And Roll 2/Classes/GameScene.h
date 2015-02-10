@@ -25,7 +25,7 @@
 #define kRADIAL_GRAVITY_FORCE -250.0f
 
 @interface GameScene : CCLayer
-{
+{  
 	b2World* world;
     MyContactListener *_contactListener;
 	b2Body* groundBody;
@@ -36,7 +36,7 @@
     b2Fixture *metaFixture;
     b2Fixture *bottomFixture;
     bool noSeguir;
-    NSTimer* timer;
+     NSTimer* timer;
     int bolaActual;
     int bolaTotal;
     b2Vec2 gravityForBall;
@@ -56,13 +56,13 @@
     NSTimer *timerBubloder;
     NSTimer *timerVentiladorSwitch;
     NSTimer *timerAragneSwitch;
-    NSTimer *timerTeleportAllowed;
+     NSTimer *timerTeleportAllowed;
     NSTimer *proteccionComienza;
     NSTimer *proteccionTitila;
     NSTimer *proteccionPumpComienza;
     NSTimer *proteccionPumpTitila;
-    NSTimer *timerGravityOff;
-    NSTimer *timerBalloon;
+	 NSTimer *timerGravityOff;
+     NSTimer *timerBalloon;
     LHSprite *bg;
     LHSprite *bg2;
     CCMenu *menu;
@@ -84,8 +84,8 @@
 	bool pocion;
     bool calabazaSafe;
     int gravityExtra;
-    
-    
+
+    LHSprite* movedCircle;
     LHSprite* ball;
     
     
@@ -94,60 +94,60 @@
     
 	CGSize _winSize;
 	CGFloat cocosAngle;
-    
-    
+
+	
     LHSprite* brillo;
     LHSprite* brilloPump;
-    
+	
     //b2Vec2 gravity;
-    
+	
 	int Tiempo;
     int temperatura;
-    
+	
 	int Bolas;
 	int Stars;
-    
+
 	CCParticleRain	*emitter2;
 	CCParticleRain	*emitter3;
 	CCParticleRain	*emitter4;
-    
+
 	//CCParticleFire *fuego;
-    
+	
 	CGPoint puntito;
-    
+	
 	NSMutableArray *personajes;
-    
-    
+	
+	
 	CCSprite *ojitos;
 	CCAction *walkAction;
 	CCAction *moveAction;
-    
+	
 	CCTexture2D	*texture1;
 	CCTexture2D	*texture2;
-    
+	
 	int Star1;
 	int Star2;
 	int Star3;
 	int StarScore;
 	int StarHighScore;
 	NSString *mensaje;
-    
+	
 	// ACTIONS
-    
+	
 	id malo1_expande;
 	id malo1_contrae;
 	id latir1;
     
-    LevelHelperLoader* lh;
+    LevelHelperLoader* lh;    
     CGRect worldSize;
     float offsetV, offsetH;
-    
+
     CGPoint ZB_last_posn;
     
     // FLECHA
     int MAXIMUM_NUMBER_OF_STEPS;        // 4 slow motion
     b2MouseJoint* mouseJoint;
-    
+
     bool shooting;
     //b2Body* arrowBody;
     b2Body* m_launcherBody;
@@ -187,7 +187,7 @@
     b2Vec2 shootImpulse;
     bool waitingToStop;
     int cantidadDeTirosMaximo;
-    
+
     bool stop;
     float aproaching;
     float previousScale;
@@ -214,6 +214,7 @@
     bool puff;
     int transe;
     
+    CGPoint originPoint;
     CGPoint repeatpoint;
     int repeatcounter;
     bool resetbo;
@@ -235,8 +236,6 @@
 
 -(void) addPortal:(CGPoint)p;
 -(void) addNewStar:(CGPoint)p :(int)angulo;
-
--(void) toggleMusic;
 
 -(void) gotoNextLevel;
 -(void) replayLevel;

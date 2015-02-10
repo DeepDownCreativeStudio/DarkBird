@@ -71,7 +71,8 @@ enum LevelHelper_TAG
     TAG_BROKEN          = 5,
     TAG_KEY             = 6,
     TAG_TELEPORT        = 7,
-	NUMBER_OF_TAGS      = 8
+    TAG_DESIGN          = 8,
+	NUMBER_OF_TAGS      = 9
     
     
     
